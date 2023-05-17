@@ -1,0 +1,151 @@
+{% extends './Components/_layout.html' %}
+
+{% block body %}
+  <p class="navbar-brand bar fs-5"><b>Employee Ratings</b></p>
+<!--   <p>{{data}} -->
+<!--   </p> -->
+  <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+    <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 50%">50%</div>
+  </div>
+    <form class="h-100 pt-2 d-flex flex-column overflow-hidden" method="post"  action="{{url_for("employee_ratings")}}">
+      <div class="w-100 h-100" style="overflow-x:hidden;overflow-y:auto;">
+        <p class="pt-3 bar fs-7"><b>Feedback</b></p>
+        <table class="table table-responsive table-borderless">
+          <thead>
+            <tr>
+                <th scope="col" class="col-md-6 w-50"></th>
+                <th scope="col" class="col-md-2">Poor</th>
+                <th scope="col" class="col-md-2">Good</th>
+                <th scope="col" class="col-md-2">Excellent</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Code Quality</th>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="code-quality" id="code-quality-poor" value="poor" {% if data.get('employee-code-quality') == "poor" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="code-quality" id="code-quality-good" value="good" {% if data.get('employee-code-quality') == "good" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="code-quality" id="code-quality-excellent" value="excellent" {% if data.get('employee-code-quality') == "excellent" %} checked {% endif %}>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Quality of Work</th>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="quality-of-work" id="quality-of-work-poor" value="poor" {% if data.get('employee-quality-of-work') == "poor" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="quality-of-work" id="quality-of-work-good" value="good" {% if data.get('employee-quality-of-work') == "good" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="quality-of-work" id="quality-of-work-excellent" value="excellent" {% if data.get('employee-quality-of-work') == "excellent" %} checked {% endif %}>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <th scope="row">Debugging Skills</th>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="debugging-skills" id="debugging-skills-poor" value="poor" {% if data.get('employee-debugging-skills') == "poor" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="debugging-skills" id="debugging-skills-good" value="good" {% if data.get('employee-debugging-skills') == "good" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="debugging-skills" id="debugging-skills-excellent" value="excellent" {% if data.get('employee-debugging-skills') == "excellent" %} checked {% endif %}>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <table class="table table-responsive table-borderless">
+          <thead>
+            <tr>
+              <th scope="col" class="col-md-6 w-50"></th>
+              <th scope="col" class="col-md-2">Good</th>
+              <th scope="col" class="col-md-2">Excellent</th>
+              <th scope="col" class="col-md-2"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Time Management</th>
+              <td>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="time-management" id="time-management-good" value="good" {% if data.get('employee-time-management') == "good" %} checked {% endif %}>
+                  </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="time-management" id="time-management-excellent" value="excellent" {% if data.get('employee-time-management') == "excellent" %} checked {% endif %}>
+                </div>
+            </td>
+              <td>
+                  <div class="form-check">
+                  </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <table class="table table-responsive table-borderless">
+          <thead>
+            <tr>
+                <th scope="col" class="col-md-6 w-50"></th>
+                <th scope="col" class="col-md-2">Low</th>
+                <th scope="col" class="col-md-2">Medium</th>
+                <th scope="col" class="col-md-2">High</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Workload</th>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="workload" id="workload-low" value="low" {% if data.get('Workload') == "low" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="workload" id="workload-medium" value="medium" {% if data.get('Workload') == "medium" %} checked {% endif %}>
+                </div>
+              </td>
+              <td>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="workload" id="workload-high" value="high" {% if data.get('Workload') == "high" %} checked {% endif %}>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="row g-3">
+        <div class="col-md-3">
+          <button class="btn btn-primary w-100" value="VALUE1" name="action1">Previous</button>
+        
+        </div>
+        <div class="col-md-3">
+          <button type="submit" class="btn btn-primary w-100">Next</button>
+        </div>
+    </div>
+    </form>
+{% endblock %}

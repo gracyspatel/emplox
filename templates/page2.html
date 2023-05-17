@@ -1,0 +1,33 @@
+{% extends './Components/_layout.html' %}
+
+{% block body %}
+    <p class="bar fs-5"><b>Employee Skills</b></p>
+<!--     <p>{{data}}</p> -->
+    <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 25%">25%</div>
+    </div>
+    <form class="h-100 pt-2 d-flex flex-column overflow-hidden justify-content-between" method="post" action="{{url_for("employee_skills")}}">
+            <div class="w-100 h-100" style="overflow-x:hidden;overflow-y:auto;">
+                <p class="pt-3 bar fs-7"><b>Work Experience</b></p>
+                <p>Department Skills</p>
+                    <div class="p-3 row g-2">
+                    {% for skill in department_skills.get(data.get('Department')) %}
+                        <div class="col-md-4 col-sm-6 form-check">
+                            <input class="form-check-input" type="checkbox" name="Technical Skills" id="Technical Skills" value={{skill|replace(' ', '')}}>
+                            <label class="form-check-label" for="Technical Skills">
+                                {{skill}}
+                            </label>
+                        </div>
+                    {% endfor %}
+                    </div>
+        </div>
+            <div class="row g-3">
+                <div class="col-md-3">
+                    <button class="btn btn-primary w-100" value="VALUE1" name="action1">Previous</button>
+                </div>
+                <div class="col-md-3">
+                    <button type="submit" class="btn btn-primary w-100">Next</button>
+                </div>
+            </div>
+    </form>
+{% endblock %}

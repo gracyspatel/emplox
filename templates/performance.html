@@ -1,0 +1,52 @@
+{% extends './Components/_layout.html' %}
+
+{% block body %}
+    <p class="navbar-brand bar fs-5" href="#"><b>Employee Performance Prediction</span></b></p>
+    <div class="h-100 w-100" style="overflow-x:hidden;overflow-y:auto;">
+    {% if loading: %}
+    <p>Loading......</p>
+    {% else: %}
+    <p class="text-justify">From all the factors that were mentioned above the predicted performance of the {{data.get('employee-first-name')}}  {{data.get('employee-last-name')}} from the department {{data.get('Department')}} is predicted:</p>
+    <div class="mt-4">
+        <table class="table table-bordered">
+          <tbody>
+            <tr>
+              <td colspan="3"><b>Employee Details</b></td>
+            </tr>
+            <tr>
+              <td colspan="2">Employee ID</td>
+              <td>{{data.get('employee-id')}}</td>
+            </tr>
+            <tr>
+              <td colspan="2">Full Name</td>
+              <td>{{data.get('employee-first-name')}} {{data.get('employee-last-name')}}</td>
+            </tr>
+            <tr>
+              <td colspan="3"><b>Experience Details</b></td>
+            </tr>
+            <tr>
+              <td colspan="2">Department</td>
+              <td>{{data.get('Department')}}</td>
+            </tr>
+            <tr>
+              <td colspan="2">Job Tenure</td>
+              <td>{{data.get('employee-job-tenure')}}</td>
+            </tr>
+            <tr>
+                <td colspan="3"></td>
+            </tr>
+            <tr>
+              <td colspan="2"><b>Performance</b></td>
+              <td><b>{% if prediction %}
+              {{prediction}}
+              {% endif%}</b></td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+    <div>
+    <a href="/"><b>Make another prediction?</b></a>
+    </div>
+    {% endif%}
+    </div>
+{% endblock %}

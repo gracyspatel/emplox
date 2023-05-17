@@ -1,0 +1,1001 @@
+Employee Id,Education Level,Department,Job Tenure,Technical Skills,Quality_of_Work,Workload,Peer_Feedback,Code_Quality,Project_Completion_Rate,Debugging_Skills,Time_Management,Learning_Growth,Performance
+1,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, PowerBI",Good,Low,5,Good,93,Good,Good,No,Meets Expectations
+2,Bachelor's,Frontend,6,"Angular JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Excellent,98,Good,Good,Yes,Meets Expectations
+3,Bachelor's,DevOps,5,"Jenkins, Git, Security, Automation, Cloud management",Good,Medium,9,Good,88,Good,Good,Yes,Meets Expectations
+4,PhD,.Net,2,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net, Entity Framework",Poor,Low,7,Poor,17,Poor,Poor,No,Needs Improvement
+5,Bachelor's,DevOps,6,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,3,Good,35,Good,Poor,No,Needs Improvement
+6,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,9,Excellent,80,Good,Excellent,Yes,Exceeds Expectations
+7,Master's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+8,PhD,Frontend,4,"Angular JS, HTML, CSS, Bootstrap, Java Script",Poor,Medium,2,Poor,45,Poor,Good,No,Needs Improvement
+9,PhD,Frontend,2,"Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,5,Good,67,Good,Good,Yes,Meets Expectations
+10,PhD,DevOps,4,"Jenkins, Git, Security, Automation, Cloud management",Good,Low,4,Good,40,Low,Good,No,Needs Improvement
+11,PhD,Frontend,3,"Node JS, HTML, CSS, Bootstrap, Java Script",Poor,Low,2,Poor,10,Poor,Poor,No,Needs Improvement
+12,Master's,Mobile,2,Android,Good,Low,5,Good,50,Good,Good,No,Needs Improvement
+13,Master's,.Net,6,"C#, .Net Core Framework, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,7,Good,57,Good,Good,Yes,Meets Expectations
+14,PhD,Database,10,"MSSQL, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse",Excellent,Medium,9,Good,86,Excellent,Excellent,Yes,Exceeds Expectations
+15,Master's,Mobile,4,iOS,Good,High,3,Good,44,Good,Good,Yes,Meets Expectations
+16,Bachelor's,Frontend,1," HTML, CSS, Bootstrap",Good,Low,3,Good,53,Good,Good,No,Needs Improvement
+17,Master's,DevOps,4,"Jenkins, Git, Security, Automation, Cloud management",Good,Medium,0,Good,83,Poor,Good,No,Needs Improvement
+18,Master's,Frontend,9,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,10,Excellent,99,Excellent,Excellent,Yes,Exceeds Expectations
+19,Bachelor's,DevOps,0,"Jenkins, Git, Automation",Poor,low,2,Poor,10,Poor,Poor,No,Needs Improvement
+20,Master's,Database,2,"MSSQL, Data Modelling, Data Warehouse",Good,Low,5,Good,60,Good,Good,Yes,Meets Expectations
+21,Bachelor's,Frontend,4,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,4,Good,50,Good,Good,Yes,Meets Expectations
+22,Bachelor's,Frontend,7,"Angular JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Good,80,Good,Good,Yes,Meets Expectations
+23,Master's,Mobile,1,"Android, Flutter",Good,Low,4,Good,50,Good,Good,No,Needs Improvement
+24,PhD,Mobile,6,"iOS, React Native, Flutter",Good,Medium,7,Good,70,Good,Good,Yes,Meets Expectations
+25,PhD,DevOps,9,"Jenkins, Git, Security, Automation, Cloud management",Good,High,8,Good,90,Good,Good,Yes,Meets Expectations
+26,PhD,.Net,1,"C#, .Net Core Framework, Visual Basic .Net, Entity Framework",Good,Low,4,Good,38,Good,Poor,No,Needs Improvement
+27,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net, Entity Framework",Poor,Low,3,Poor,30,Poor,Poor,No,Needs Improvement
+28,Bachelor's,Python & ML,2,"Python,ML models , MSSQL, Flask",Good,Low,4,Poor,30,Poor,Poor,No,Needs Improvement
+29,Master's,.Net,9,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,10,Excellent,98,Excellent,Good,Yes,Exceeds Expectations
+30,Bachelor's,Frontend,1,"Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,6,Good,42,Good,Good,Yes,Meets Expectations
+31,Bachelor's,Mobile,5,"iOS, Android, Flutter",Excellent,Medium,8,Good,85,Good,Good,No,Meets Expectations
+32,Master's,Mobile,2,"Android, Flutter",Good,Low,7,Good,93,Good,Excellent,Yes,Exceeds Expectations
+33,Master's,Frontend,0,"HTML, CSS, Bootstrap",Poor,Low,1,Poor,10,Poor,Poor,No,Needs Improvement
+34,PhD,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Good,85,Good,Good,Yes,Meets Expectations
+35,Master's,Database,0,"SSRS, MSSQL, Data Modelling",Poor,Low,2,Poor,24,Poor,Poor,No,Needs Improvement
+36,Bachelor's,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Excellent,95,Good,Good,No,Meets Expectations
+37,Bachelor's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,8,Good,71,Good,Good,Yes,Meets Expectations
+38,PhD,Frontend,2,"HTML, CSS, Bootstrap, Java Script",Good,Medium,2,Good,36,Good,Poor,No,Needs Improvement
+39,Bachelor's,Mobile,5,"iOS, Android, Flutter",Good,Medium,5,Good,57,Low,Good,No,Needs Improvement
+40,Master's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,9,Good,95,Good,Good,Yes,Meets Expectations
+41,PhD,DevOps,1,"Jenkins, Git, Automation",Good,Low,6,Good,35,Good,Good,Yes,Meets Expectations
+42,PhD,.Net,2,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net, Entity Framework",Good,Low,5,Poor,3,Poor,Poor,No,Needs Improvement
+43,Master's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse",Excellent,Medium,9,Good,69,Good,Excellent,Yes,Meets Expectations
+44,PhD,DevOps,1,"Jenkins, Git",Excellent,Low,7,Good,79,Good,Good,Yes,Exceeds Expectations
+45,PhD,Python & ML,10,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,8,Good,53,Good,Good,Yes,Meets Expectations
+46,Bachelor's,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,9,Good,85,Good,Good,Yes,Exceeds Expectations
+47,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net",Good,Low,4,Good,21,Good,Poor,No,Needs Improvement
+48,Master's,Mobile,2,Android,Good,Medium,5,Good,45,Good,Good,Yes,Meets Expectations
+49,PhD,Frontend,9,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,7,Good,80,Good,Good,No,Meets Expectations
+50,Master's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL,  Django, Flask",Good,Medium,7,Good,63,Good,Excellent,Yes,Exceeds Expectations
+51,Master's,DevOps,4,"Jenkins, Git, Security",Good,Low,1,Good,77,Good,Good,No,Needs Improvement
+52,Bachelor's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,7,Excellent,90,Excellent,Good,Yes,Exceeds Expectations
+53,Master's,DevOps,4,"Jenkins, Git, Security, Automation",Good,Medium,3,Poor,59,Poor,Good,No,Needs Improvement
+54,Master's,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,7,Good,90,Good,Good,Yes,Meets Expectations
+55,Bachelor's,Mobile,7,"iOS, Android, React Native, Flutter",Good,Medium,7,Good,75,Good,Good,Yes,Meets Expectations
+56,Master's,Database,1,"SSRS, MSSQL, MySQL, Data Modelling",Excellent,Medium,5,Good,82,Good,Good,Yes,Meets Expectations
+57,Bachelor's,DevOps,3,"Jenkins, Git,  Automation, Cloud management",Good,Low,5,Poor,40,Poor,Good,No,Needs Improvement
+58,Bachelor's,Database,2,"SSRS, MSSQL, MySQL,Data Modelling",Good,Medium,2,Good,19,Good,Poor,No,Needs Improvement
+59,PhD,Mobile,3,"iOS, Flutter",Good,High,7,Good,50,Good,Excellent,Yes,Meets Expectations
+60,Bachelor's,DevOps,3,"Jenkins, Git, Automation",Good,Medium,3,Low,60,Low,Good,No,Needs Improvement
+61,PhD,DevOps,4,"Jenkins, Git, Security, Automation",Good,High,9,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+62,Bachelor's,Python & ML,2,"Python,ML models, MSSQL",Good,Medium,8,Good,35,Good,Good,Yes,Meets Expectations
+63,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+64,Master's,Python & ML,0,Python,Good,Low,1,Good,13,Good,Poor,No,Needs Improvement
+65,PhD,Mobile,7,"iOS, Android, React Native, Flutter",Good,High,9,Excellent,95,Excellent,Excellent,Yes,Exceeds Expectations
+66,Bachelor's,Mobile,4,"iOS, Android, Flutter",Poor,Low,4,Poor,50,Good,Good,No,Needs Improvement
+67,Bachelor's,Mobile,1,iOS,Good,Low,5,Good,59,Good,Good,No,Meets Expectations
+68,Bachelor's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,9,Good,58,Good,Good,Yes,Meets Expectations
+69,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Low,3,Good,34,Poor,Poor,No,Needs Improvement
+70,Master's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,75,Excellent,Excellent,Yes,Exceeds Expectations
+71,Master's,DevOps,9,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Good,90,Good,Good,Yes,Meets Expectations
+72,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Django",Excellent,Medium,9,Excellent,65,Excellent,Excellent,Yes,Exceeds Expectations
+73,Bachelor's,Mobile,8,"iOS, Android, React Native, Flutter",Good,High,8,Excellent,95,Excellent,Excellent,Yes,Exceeds Expectations
+74,Master's,DevOps,3,"Jenkins, Git, Automation, Cloud management",Poor,Low,4,Poor,39,Poor,Good,No,Needs Improvement
+75,PhD,Python & ML,5,"Python,ML models, DL models, TensorFlow, MSSQL, Postgresql, Django, Flask",Good,Medium,2,Good,50,Poor,Good,No,Needs Improvement
+76,PhD,Python & ML,4,"Python,ML models, DL models, TensorFlow",Good,High,6,Good,85,Good,Good,No,Meets Expectations
+77,Master's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,5,Good,52,Good,Excellent,Yes,Meets Expectations
+78,Master's,Mobile,1,iOS,Poor,Low,5,Poor,25,Poor,Poor,No,Needs Improvement
+79,PhD,Database,0,"MSSQL, Data Modelling",Good,Low,5,Good,5,Good,Good,Yes,Meets Expectations
+80,PhD,Python & ML,2,"Python,ML models, Flask",Good,Medium,4,Good,12,Good,Poor,No,Needs Improvement
+81,PhD,Mobile,8,"iOS, Android, React Native, Flutter",Good,Medium,8,Good,80,Good,Excellent,No,Meets Expectations
+82,PhD,Frontend,9,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Good,95,Good,Good,Yes,Meets Expectations
+83,Bachelor's,Database,3,"SSRS, MSSQL, MySQL,  Data Modelling",Good,Low,2,Good,84,Good,Good,No,Needs Improvement
+84,PhD,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,High,8,Good,90,Good,Good,Yes,Meets Expectations
+85,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,99,Excellent,Excellent,Yes,Exceeds Expectations
+86,Bachelor's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,7,Good,56,Good,Good,Yes,Meets Expectations
+87,Bachelor's,DevOps,3,"Jenkins, Git, Security, Automation, Cloud management",Good,Medium,7,Good,47,Good,Good,Yes,Meets Expectations
+88,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,9,Excellent,90,Excellent,Good,Yes,Exceeds Expectations
+89,Master's,Python & ML,5,"Python,ML models, DL models, TensorFlow, MSSQL, Flask",Good,Medium,6,Good,94,Good,Good,Yes,Meets Expectations
+90,PhD,Mobile,5,"iOS, Android,  Flutter",Good,Medium,5,Low,80,Low,Good,No,Needs Improvement
+91,PhD,Frontend,5,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,3,Good,55,Good,Good,No,Needs Improvement
+92,Master's,.Net,3,"C#, .Net Core Framework, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Low,5,Good,51,Good,Good,Yes,Meets Expectations
+93,Master's,Database,4,"SSRS, MSSQL,MongoDB, Data Modelling, PowerBI, BigData",Good,Medium,5,Good,40,Good,Good,No,Meets Expectations
+94,Master's,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,7,Good,90,Good,Good,Yes,Meets Expectations
+95,Bachelor's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,6,Good,51,Good,Excellent,Yes,Meets Expectations
+96,Bachelor's,Frontend,5,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+97,Bachelor's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,5,Good,51,Good,Good,No,Needs Improvement
+98,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,7,Good,72,Good,Excellent,Yes,Meets Expectations
+99,Bachelor's,Mobile,1," Android, Flutter",Good,Low,5,Good,16,Good,Poor,No,Needs Improvement
+100,Bachelor's,Frontend,0," HTML, CSS, Bootstrap, Java Script",Excellent,Low,9,Good,20,Good,Good,Yes,Exceeds Expectations
+101,Bachelor's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,8,Good,85,Good,Good,Yes,Meets Expectations
+102,PhD,Database,2,"SSRS, MSSQL, MySQL, Data Modelling, PowerBI",Good,Low,5,Good,13,Poor,Poor,No,Needs Improvement
+103,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle,  Data Modelling, PowerBI",Good,Low,5,Good,67,Poor,Good,No,Needs Improvement
+104,Bachelor's,Mobile,2,"Android, Flutter",Good,Low,7,Good,60,Good,Good,No,Meets Expectations
+105,Bachelor's,DevOps,0,"Jenkins, Git, Automation",Good,Low,5,Good,10,Poor,Poor,No,Needs Improvement
+106,Bachelor's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Excellent,Low,4,Good,26,Poor,Poor,No,Needs Improvement
+107,PhD,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,55,Excellent,Excellent,Yes,Exceeds Expectations
+108,Bachelor's,Mobile,5,"iOS, Android, React Native, Flutter",Good,Medium,8,Good,90,Good,Excellent,Yes,Meets Expectations
+109,PhD,Python & ML,0,Python,Good,Low,5,Good,26,Good,Excellent,Yes,Meets Expectations
+110,PhD,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL,  Django, Flask",Good,Medium,1,Good,50,Good,Good,No,Needs Improvement
+111,Master's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Excellent,82,Excellent,Good,No,Meets Expectations
+112,Bachelor's,DevOps,0,"Jenkins, Git",Poor,Low,2,Poor,10,Poor,Poor,No,Needs Improvement
+113,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Data Modelling",Excellent,Medium,7,Good,33,Good,Good,Yes,Exceeds Expectations
+114,Bachelor's,DevOps,2,"Jenkins, Git, Security",Good,Low,4,Good,20,Poor,Good,Yes,Meets Expectations
+115,Bachelor's,DevOps,3,"Jenkins, Git, Security, Automation",Good,Low,4,Good,20,Poor,Poor,No,Needs Improvement
+116,PhD,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,9,Good,70,Excellent,Excellent,Yes,Meets Expectations
+117,Bachelor's,.Net,0,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net",Good,Low,5,Good,10,Good,Good,Yes,Meets Expectations
+118,Bachelor's,Frontend,0,"HTML, CSS, Bootstrap",Poor,Low,3,Poor,5,Poor,Poor,No,Needs Improvement
+119,PhD,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,7,Good,80,Good,Good,No,Meets Expectations
+120,Master's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,7,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+121,Master's,Database,4,"SSRS, MSSQL, MySQL, Data Modelling, Data Warehouse",Good,Low,4,Good,85,Good,Good,No,Meets Expectations
+122,Bachelor's,Python & ML,2,"Python,ML models, MSSQL, Flask",Good,Medium,4,Good,50,Poor,Good,No,Needs Improvement
+123,Master's,Mobile,5,"iOS, Android, Flutter",Good,Medium,5,Good,67,Poor,Good,No,Meets Expectations
+124,PhD,Python & ML,1,"Python, MSSQL, Flask",Good,Low,4,Good,5,Good,Poor,No,Needs Improvement
+125,Master's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,7,Good,85,Good,Good,Yes,Meets Expectations
+126,Master's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,10,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+127,Bachelor's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Excellent,Medium,9,Good,84,Good,Excellent,Yes,Exceeds Expectations
+128,Master's,Mobile,8,"iOS, Android, React Native, Flutter",Excellent,Medium,5,Good,54,Good,Good,No,Meets Expectations
+129,Master's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,9,Good,95,Good,Good,Yes,Meets Expectations
+130,Bachelor's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,5,Good,63,Good,Good,No,Needs Improvement
+131,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Good,Low,5,Good,41,Good,Good,No,Meets Expectations
+132,Master's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+133,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,9,Excellent,95,Good,Good,No,Meets Expectations
+134,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,6,Good,50,Poor,Good,Yes,Meets Expectations
+135,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,8,Good,75,Good,Good,No,Meets Expectations
+136,PhD,Mobile,1,"iOS, Android",Poor,Low,4,Poor,21,Poor,Poor,No,Needs Improvement
+137,PhD,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,8,Good,95,Good,Good,Yes,Meets Expectations
+138,Master's,Mobile,7,"iOS, Android, React Native, Flutter",Good,Medium,6,Excellent,43,Excellent,Excellent,No,Meets Expectations
+139,Master's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,3,Good,60,Good,Good,No,Needs Improvement
+140,PhD,Mobile,4,"iOS, Android, Flutter",Good,High,5,Good,75,Poor,Good,No,Needs Improvement
+141,Master's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,9,Good,63,Good,Good,No,Meets Expectations
+142,Bachelor's,Mobile,2," Android, Flutter",Excellent,Medium,8,Good,20,Good,Good,Yes,Exceeds Expectations
+143,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,85,Good,Good,Yes,Meets Expectations
+144,PhD,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,5,Good,80,Good,Good,No,Meets Expectations
+145,Master's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,8,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+146,Bachelor's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,3,Good,45,Good,Good,No,Needs Improvement
+147,PhD,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,8,Excellent,85,Excellent,Good,No,Meets Expectations
+148,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Excellent,75,Good,Good,Yes,Exceeds Expectations
+149,Bachelor's,DevOps,1,"Jenkins, Git, Security",Good,Low,4,Good,24,Poor,Poor,No,Needs Improvement
+150,Master's,Frontend,9,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Excellent,91,Excellent,Excellent,No,Meets Expectations
+151,PhD,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,9,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+152,Bachelor's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,7,Good,75,Good,Good,Yes,Meets Expectations
+153,PhD,Frontend,2,"Angular JS, HTML, CSS, Bootstrap, Java Script",Excellent,Low,10,Good,89,Excellent,Excellent,Yes,Exceeds Expectations
+154,Bachelor's,DevOps,7,"Jenkins, Git, Security, Automation, Cloud management",Excellent,Medium,7,Good,75,Good,Good,Yes,Meets Expectations
+155,PhD,Python & ML,0,Python,Excellent,Low,7,Good,88,Good,Good,Yes,Exceeds Expectations
+156,PhD,Mobile,3,"iOS, Android, Flutter",Good,Low,8,Good,55,Good,Good,Yes,Meets Expectations
+157,Master's,Mobile,4,"iOS, Android, Flutter",Good,Low,4,Good,60,Good,Good,No,Needs Improvement
+158,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, SSIS, Data Warehouse, Data Mining",Good,Medium,4,Good,45,Good,Good,No,Needs Improvement
+159,Master's,Database,5,"SSRS, MSSQL, MySQL,  MongoDB, Data Modelling, PowerBI, Data Warehouse, Data Mining",Excellent,High,7,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+160,Master's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,8,Good,69,Good,Good,Yes,Meets Expectations
+161,Master's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,1,Good,68,Excellent,Good,No,Meets Expectations
+162,Master's,Python & ML,0,"Python,ML models",Good,Low,6,Good,52,Good,Good,No,Meets Expectations
+163,Bachelor's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,7,Good,85,Excellent,Excellent,Yes,Exceeds Expectations
+164,Bachelor's,Frontend,3," Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,5,Good,55,Good,Good,No,Meets Expectations
+165,PhD,Database,4,"SSRS, MSSQL, MySQL,Data Modelling,  Data Warehouse",Good,Medium,5,Good,45,Good,Good,No,Needs Improvement
+166,PhD,DevOps,3,"Jenkins, Git, Security, Automation",Excellent,Medium,6,Good,50,Good,Good,Yes,Meets Expectations
+167,PhD,Python & ML,2,"Python,ML models, MSSQL",Good,Low,5,Good,25,Good,Good,Yes,Meets Expectations
+168,PhD,Mobile,0," Android, Flutter",Good,Low,4,Good,15,Poor,Poor,No,Needs Improvement
+169,PhD,Python & ML,10,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,9,Good,85,Good,Good,No,Meets Expectations
+170,Master's,Frontend,5,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,6,Good,45,Good,Good,Yes,Meets Expectations
+171,Master's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+172,Master's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Good,99,Good,Good,No,Meets Expectations
+173,Master's,Frontend,5,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,5,Excellent,76,Excellent,Good,No,Meets Expectations
+174,Master's,Database,0,"SSRS, MSSQL, Data Modelling",Good,Low,5,Good,25,Good,Good,Yes,Meets Expectations
+175,Bachelor's,Mobile,3,"iOS, Android, Flutter",Poor,Low,3,Poor,25,Poor,Poor,No,Needs Improvement
+176,Master's,Database,2,"SSRS, MSSQL,Data Modelling, Data Warehouse",Excellent,Medium,9,Excellent,93,Excellent,Good,Yes,Exceeds Expectations
+177,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,8,Good,64,Good,Excellent,Yes,Meets Expectations
+178,PhD,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Django, Flask",Good,Medium,6,Excellent,29,Excellent,Good,No,Meets Expectations
+179,Bachelor's,Frontend,9,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,10,Excellent,100,Excellent,Excellent,Yes,Exceeds Expectations
+180,Bachelor's,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,Medium,8,Good,77,Good,Good,No,Meets Expectations
+181,Master's,Mobile,4," Android, React Native, Flutter",Good,High,9,Good,76,Good,Good,No,Meets Expectations
+182,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,6,Good,90,Good,Excellent,No,Meets Expectations
+183,Master's,DevOps,3,"Jenkins, Git, Automation, Cloud management",Excellent,Medium,7,Excellent,88,Excellent,Good,Yes,Exceeds Expectations
+184,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, MSSQL, Flask",Excellent,High,9,Excellent,81,Excellent,Good,Yes,Exceeds Expectations
+185,PhD,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Flask",Excellent,High,8,Good,75,Good,Good,No,Meets Expectations
+186,Bachelor's,Frontend,1,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,18,Good,Excellent,No,Meets Expectations
+187,Bachelor's,Frontend,0," HTML, CSS, Bootstrap, Java Script",Good,Low,3,Good,15,Good,Good,Yes,Meets Expectations
+188,Master's,Mobile,9,"iOS, Android, React Native, Flutter",Good,Medium,9,Good,75,Good,Good,Yes,Meets Expectations
+189,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,High,2,Good,43,Good,Good,No,Needs Improvement
+190,Bachelor's,Frontend,1,"Angular JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Excellent,89,Excellent,Good,Yes,Exceeds Expectations
+191,Bachelor's,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,9,Good,85,Good,Good,No,Meets Expectations
+192,PhD,Mobile,9,"iOS, Android, React Native, Flutter",Excellent,High,9,Good,92,Good,Good,Yes,Meets Expectations
+193,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,7,Good,60,Good,Good,No,Meets Expectations
+194,PhD,.Net,0,"C#, .Net Core Framework",Good,Low,3,Good,5,Poor,Poor,No,Needs Improvement
+195,Bachelor's,Mobile,5,"iOS, Android, React Native, Flutter",Excellent,Medium,6,Good,60,Good,Good,No,Meets Expectations
+196,Bachelor's,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,7,Excellent,82,Excellent,Excellent,No,Meets Expectations
+197,Bachelor's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,90,Excellent,Excellent,No,Meets Expectations
+198,Bachelor's,Database,0,"SSRS, MSSQL, Data Modelling",Good,Low,4,Good,20,Good,Poor,No,Needs Improvement
+199,PhD,Mobile,0, Android,Good,Low,4,Good,10,Poor,Poor,No,Needs Improvement
+200,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,8,Excellent,100,Excellent,Excellent,No,Meets Expectations
+201,Master's,Python & ML,4,"Python,ML models, MSSQL, Postgresql, Django, Flask",Excellent,High,7,Good,85,Good,Good,Yes,Meets Expectations
+202,Bachelor's,.Net,0,"C#, .Net Core Framework, ASP.Net",Good,Low,3,Good,20,Poor,Poor,No,Needs Improvement
+203,Bachelor's,Mobile,2,"iOS, Flutter",Good,Low,5,Good,38,Poor,Poor,No,Needs Improvement
+204,Master's,Python & ML,1,"Python, MSSQL, Django, Flask",Excellent,Low,8,Good,90,Excellent,Good,Yes,Exceeds Expectations
+205,Bachelor's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Excellent,88,Excellent,Excellent,Yes,Exceeds Expectations
+206,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net",Good,Low,4,Good,33,Poor,Poor,No,Needs Improvement
+207,PhD,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,99,Excellent,Excellent,No,Meets Expectations
+208,PhD,Frontend,2,"Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,4,Good,19,Poor,Good,Yes,Meets Expectations
+209,PhD,Mobile,1,"iOS, Flutter",Poor,Low,3,Poor,5,Poor,Poor,No,Needs Improvement
+210,Master's,Frontend,0,"HTML, CSS, Bootstrap",Good,Low,5,Good,5,Poor,Good,Yes,Meets Expectations
+211,Master's,Mobile,3,"iOS, Android, Flutter",Good,Medium,8,Good,86,Good,Good,No,Meets Expectations
+212,PhD,Frontend,1," HTML, CSS, Bootstrap, Java Script",Good,Low,5,Good,45,Good,Excellent,No,Meets Expectations
+213,PhD,Python & ML,1,"Python,ML models, MSSQL, Flask",Good,Medium,5,Good,10,Good,Good,Yes,Meets Expectations
+214,Master's,.Net,0," .Net Core Framework, Visual Basic .Net",Good,Low,5,Good,5,Poor,Poor,No,Needs Improvement
+215,PhD,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,High,8,Excellent,95,Excellent,Excellent,Yes,Meets Expectations
+216,Master's,Database,0,"MSSQL,Data Modelling",Poor,Low,2,Poor,5,Poor,Poor,No,Needs Improvement
+217,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,8,Excellent,88,Excellent,Excellent,Yes,Exceeds Expectations
+218,Bachelor's,Python & ML,1,"Python,ML models",Good,Low,4,Good,15,Poor,Poor,No,Needs Improvement
+219,Master's,DevOps,1," Git, Security, Automation",Good,Low,6,Good,50,Good,Good,Yes,Meets Expectations
+220,Master's,.Net,1,"C#, .Net Core Framework, Visual Basic .Net",Good,Low,8,Good,25,Good,Good,Yes,Exceeds Expectations
+221,Bachelor's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,7,Good,82,Good,Good,Yes,Meets Expectations
+222,PhD,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+223,PhD,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Good,98,Good,Good,Yes,Meets Expectations
+224,Master's,Mobile,3," Android, Flutter",Good,Low,8,Good,65,Good,Good,Yes,Meets Expectations
+225,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling",Good,Medium,4,Good,45,Good,Good,No,Needs Improvement
+226,Master's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,7,Excellent,23,Excellent,Excellent,Yes,Meets Expectations
+227,PhD,Mobile,4,iOS,Excellent,High,8,Excellent,75,Good,Good,No,Meets Expectations
+228,Bachelor's,Frontend,2,"Angular JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Good,89,Good,Good,Yes,Exceeds Expectations
+229,PhD,Python & ML,2,"Python, MSSQL,  Django, Flask",Excellent,High,7,Good,75,Good,Excellent,Yes,Exceeds Expectations
+230,Master's,Mobile,5,"iOS, Android,  Flutter",Good,Medium,7,Good,50,Good,Good,Yes,Meets Expectations
+231,Bachelor's,Python & ML,3,"Python,ML models, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+232,PhD,DevOps,2,"Jenkins, Git,  Security, Automation",Excellent,Low,7,Good,97,Good,Good,Yes,Exceeds Expectations
+233,PhD,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, Data Warehouse",Good,Medium,7,Good,50,Good,Good,Yes,Meets Expectations
+234,Master's,.Net,1,"C#, .Net Core Framework, Visual Basic .Net",Good,Low,5,Good,5,Poor,Poor,No,Needs Improvement
+235,PhD,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Good,98,Good,Good,No,Meets Expectations
+236,Master's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,9,Excellent,99,Excellent,Excellent,Yes,Exceeds Expectations
+237,Master's,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,9,Good,98,Good,Good,Yes,Meets Expectations
+238,Master's,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,High,7,Good,97,Good,Good,Yes,Meets Expectations
+239,PhD,.Net,8,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,6,Good,85,Good,Good,No,Meets Expectations
+240,Master's,Database,2,"SSRS, MSSQL,MongoDB, Data Modelling, PowerBI",Good,Low,5,Good,69,Good,Good,Yes,Meets Expectations
+241,PhD,Frontend,2,"HTML, CSS, Bootstrap, Java Script",Good,Medium,4,Good,50,Good,Good,No,Needs Improvement
+242,PhD,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,98,Excellent,Good,No,Meets Expectations
+243,PhD,Mobile,3,"Android, Flutter",Poor,Low,4,Poor,15,Poor,Poor,No,Needs Improvement
+244,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,9,Excellent,75,Excellent,Good,Yes,Exceeds Expectations
+245,Master's,Frontend,5,"Angular JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Excellent,85,Excellent,Good,Yes,Exceeds Expectations
+246,Master's,Python & ML,5,"Python,ML models, DL models, TensorFlow,MSSQL, Django, Flask",Good,Medium,8,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+247,Master's,Python & ML,2,"Python,ML models , Flask",Poor,Low,2,Poor,2,Poor,Poor,No,Needs Improvement
+248,Master's,Mobile,1, Android,Good,Low,7,Good,25,Good,Good,No,Exceeds Expectations
+249,Bachelor's,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,  SSIS, Data Warehouse, Data Mining",Good,Medium,6,Good,70,Good,Good,Yes,Meets Expectations
+250,Master's,Python & ML,3,"Python,ML models, DL models, TensorFlow,MSSQL, Django, Flask",Good,Low,6,Good,50,Good,Good,Yes,Meets Expectations
+251,Bachelor's,Mobile,6,"iOS, Android, React Native, Flutter",Good,High,8,Good,80,Good,Good,Yes,Meets Expectations
+252,Bachelor's,Python & ML,7,"Python,ML models, DL models, MSSQL, Postgresql, Flask",Excellent,High,8,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+253,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Low,6,Good,60,Good,Good,Yes,Meets Expectations
+254,PhD,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+255,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,SSIS",Excellent,Medium,8,Good,59,Good,Good,Yes,Meets Expectations
+256,Master's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,76,Good,Good,Yes,Meets Expectations
+257,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,90,Good,Good,No,Meets Expectations
+258,Bachelor's,Python & ML,1,"Python,ML models, DL models, Flask",Poor,Low,4,Poor,35,Good,Poor,No,Needs Improvement
+259,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,8,Excellent,92,Excellent,Excellent,Yes,Exceeds Expectations
+260,PhD,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,7,Good,72,Good,Good,Yes,Meets Expectations
+261,Master's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,6,Good,70,Good,Good,Yes,Meets Expectations
+262,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, MSSQL, Postgresql, Django",Excellent,Medium,7,Good,80,Good,Excellent,Yes,Exceeds Expectations
+263,Bachelor's,.Net,1,"C#, .Net Core Framework, Entity Framework, MVC",Poor,Low,4,Poor,45,Good,Good,No,Needs Improvement
+264,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,6,Good,65,Good,Good,Yes,Meets Expectations
+265,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,7,Good,80,Good,Good,Yes,Meets Expectations
+266,Master's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,6,Good,60,Good,Good,Yes,Meets Expectations
+267,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,5,Good,63,Good,Good,Yes,Meets Expectations
+268,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Good,Good,Yes,Meets Expectations
+269,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Good,72,Good,Good,Yes,Meets Expectations
+270,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,Medium,8,Good,60,Good,Good,Yes,Meets Expectations
+271,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,45,Poor,Good,No,Needs Improvement
+272,Master's,Python & ML,2,"Python,ML models, DL models, TensorFlow",Good,Medium,7,Good,65,Good,Good,Yes,Meets Expectations
+273,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,Medium,6,Good,70,Good,Good,Yes,Meets Expectations
+274,Master's,Python & ML,2,"Python,ML models, DL models,Postgresql",Good,High,7,Good,60,Good,Good,Yes,Meets Expectations
+275,Bachelor's,Mobile,1,"Android,React Native, Flutter",Excellent,High,7,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+276,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,70,Excellent,Good,Yes,Meets Expectations
+277,Master's,.Net,1,"C#, .Net Core Framework,ADO.Net, Visual Basic .Net, MVC",Good,Medium,6,Good,68,Good,Good,Yes,Meets Expectations
+278,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,8,Good,82,Good,Good,Yes,Meets Expectations
+279,Master's,Mobile,5,"iOS, Android, React Native, Flutter",Good,High,7,Excellent,85,Good,Good,Yes,Meets Expectations
+280,Master's,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,Medium,8,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+281,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,6,Good,55,Good,Excellent,Yes,Meets Expectations
+282,Master's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script, Vue",Good,Medium,9,Excellent,90,Good,Excellent,Yes,Exceeds Expectations
+283,Bachelor's,Frontend,5,"Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,7,Excellent,69,Excellent,Good,Yes,Meets Expectations
+284,Bachelor's,Frontend,7,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,6,Good,78,Good,Excellent,Yes,Meets Expectations
+285,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Excellent,Medium,7,Good,60,Good,Excellent,No,Meets Expectations
+286,Bachelor's,.Net,3,"C#, .Net Core Framework, Visual Basic .Net, Entity Framework",Poor,Medium,5,Good,45,Poor,Good,No,Needs Improvement
+287,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,5,Poor,55,Good,Good,No,Needs Improvement
+288,Bachelor's,DevOps,1,"Jenkins, Git, Ansible, Security, Automation",Good,Medium,5,Good,59,Good,Good,No,Meets Expectations
+289,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI",Excellent,Medium,8,Good,70,Good,Good,Yes,Meets Expectations
+290,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData",Good,Medium,7,Excellent,77,Excellent,Good,No,Meets Expectations
+291,Bachelor's,Mobile,6,"iOS, Android, React Native, Flutter",Good,High,8,Good,80,Good,Good,Yes,Meets Expectations
+292,Bachelor's,Python & ML,7,"Python,ML models, DL models, MSSQL, Postgresql, Flask",Excellent,High,8,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+293,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Low,6,Good,60,Good,Good,Yes,Meets Expectations
+294,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Excellent,Medium,7,Good,60,Good,Excellent,No,Meets Expectations
+295,Bachelor's,.Net,3,"C#, .Net Core Framework, Visual Basic .Net, Entity Framework",Poor,Medium,5,Good,45,Poor,Good,No,Needs Improvement
+296,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net",Poor,Low,5,Poor,10,Poor,Poor,No,Needs Improvement
+297,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,7,Good,75,Excellent,Good,Yes,Meets Expectations
+298,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,5,Good,59,Good,Excellent,Yes,Meets Expectations
+299,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,7,Good,83,Good,Good,No,Meets Expectations
+300,Master's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script, Vue",Good,High,9,Good,80,Good,Excellent,Yes,Meets Expectations
+301,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+302,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,No,Meets Expectations
+303,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+304,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+305,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+306,Master's,Python & ML,2,"Python,ML models, DL models, TensorFlow",Good,Medium,7,Good,60,Good,Excellent,Yes,Meets Expectations
+307,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,Medium,6,Excellent,75,Good,Excellent,Yes,Meets Expectations
+308,Master's,Python & ML,2,"Python,ML models, DL models,Postgresql",Good,High,7,Good,72,Good,Good,Yes,Meets Expectations
+309,Bachelor's,DevOps,1,"Jenkins, Git, Ansible, Security",Good,Medium,5,Poor,46,Poor,Good,No,Needs Improvement
+310,Master's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Good,77,Good,Excellent,Yes,Exceeds Expectations
+311,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+312,PhD,Database,3,"SSRS, MSSQL, MySQL,Data Modelling, PowerBI,SSIS, Data Mining",Excellent,Medium,7,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+313,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,60,Poor,Good,Yes,Meets Expectations
+314,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+315,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,85,Excellent,Excellent,Yes,Exceeds Expectations
+316,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,80,Good,Good,Yes,Meets Expectations
+317,PhD,Mobile,2,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,65,Good,Excellent,Yes,Meets Expectations
+318,Bachelor's,Python & ML,2,"Python, MSSQL, Postgresql, Django, Flask",Good,High,7,Excellent,65,Good,Excellent,Yes,Meets Expectations
+319,PhD,Mobile,2,"iOS, Android, React Native, Flutter",Good,High,6,Good,55,Good,Excellent,Yes,Meets Expectations
+320,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net",Poor,Low,5,Poor,10,Poor,Poor,No,Needs Improvement
+321,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,8,Good,75,Excellent,Good,Yes,Meets Expectations
+322,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,5,Good,59,Good,Excellent,Yes,Meets Expectations
+323,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,7,Good,83,Good,Good,Yes,Meets Expectations
+324,Master's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script, Vue",Good,Low,3,Good,55,Good,Good,No,Needs Improvement
+325,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+326,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,0,Good,55,Good,Good,No,Needs Improvement
+327,PhD,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,7,Excellent,95,Excellent,Good,Yes,Exceeds Expectations
+328,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,55,Good,Excellent,Yes,Meets Expectations
+329,PhD,DevOps,6,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,8,Good,70,Good,Excellent,No,Meets Expectations
+330,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Excellent,Medium,7,Good,89,Excellent,Good,No,Meets Expectations
+331,PhD,Database,1,"SSRS, MSSQL, MySQL, PowerBI",Good,Medium,7,Good,50,Good,Excellent,No,Meets Expectations
+332,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,High,7,Good,75,Good,Good,No,Meets Expectations
+333,Bachelor's,Python & ML,2,"Python,ML models, DL models, MSSQL",Good,Medium,6,Good,70,Excellent,Excellent,No,Meets Expectations
+334,PhD,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, SSIS",Good,High,7,Good,75,Good,Good,No,Meets Expectations
+335,PhD,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,8,Good,60,Good,Excellent,No,Meets Expectations
+336,Bachelor's,Python & ML,1,"Python,ML models, DL models",Good,Medium,5,Good,45,Poor,Good,No,Needs Improvement
+337,PhD,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,70,Good,Good,No,Meets Expectations
+338,PhD,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI",Excellent,Medium,8,Good,80,Excellent,Excellent,Yes,Exceeds Expectations
+339,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling",Excellent,Medium,7,Good,70,Good,Excellent,No,Meets Expectations
+340,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,No,Meets Expectations
+341,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,No,Meets Expectations
+342,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,No,Meets Expectations
+343,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,No,Meets Expectations
+344,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+345,Master's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Good,77,Good,Excellent,Yes,Exceeds Expectations
+346,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,No,Meets Expectations
+347,PhD,Database,3,"SSRS, MSSQL, MySQL,Data Modelling, PowerBI,SSIS, Data Mining",Excellent,Medium,7,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+348,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,60,Poor,Good,No,Meets Expectations
+349,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+350,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,85,Excellent,Excellent,Yes,Exceeds Expectations
+351,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,80,Good,Good,Yes,Meets Expectations
+352,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,SSIS",Excellent,Medium,8,Good,59,Good,Excellent,Yes,Meets Expectations
+353,Master's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,76,Good,Good,Yes,Meets Expectations
+354,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,90,Excellent,Good,No,Meets Expectations
+355,Bachelor's,Python & ML,1,"Python,ML models, DL models, Flask",Poor,Low,4,Poor,35,Good,Poor,No,Needs Improvement
+356,Master's,Database,1,"SSRS, MSSQL, MySQL, Oracle, MongoDB",Good,Medium,6,Good,60,Good,Good,No,Meets Expectations
+357,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,7,Excellent,70,Excellent,Good,No,Meets Expectations
+358,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow",Good,Medium,6,Good,55,Excellent,Good,No,Meets Expectations
+359,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Excellent,86,Excellent,Good,No,Meets Expectations
+360,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,7,Excellent,75,Good,Good,No,Meets Expectations
+361,PhD,DevOps,6,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Excellent,80,Good,Good,No,Meets Expectations
+362,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, Data Mining",Good,Medium,7,Good,85,Good,Excellent,No,Meets Expectations
+363,Master's,Python & ML,1,"Python,MSSQL, Django, Flask",Good,High,7,Good,60,Excellent,Good,No,Meets Expectations
+364,Bachelor's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Low,8,Good,75,Good,Excellent,Yes,Exceeds Expectations
+365,PhD,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,5,Good,57,Good,Good,No,Meets Expectations
+366,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,9,Good,75,Good,Excellent,No,Meets Expectations
+367,Bachelor's,Python & ML,2,"Python,ML models, DL models",Good,High,1,Good,50,Good,Good,No,Needs Improvement
+368,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,65,Good,Good,No,Meets Expectations
+369,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI",Excellent,Medium,9,Good,80,Excellent,Excellent,Yes,Exceeds Expectations
+370,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+371,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Exceeds Expectations
+372,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+373,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+374,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+375,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+376,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+377,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+378,PhD,Mobile,5,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+379,Master's,Mobile,3,"iOS, Android, React Native, Flutter",Excellent,Medium,8,Excellent,84,Excellent,Good,Yes,Exceeds Expectations
+380,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,7,Good,70,Excellent,Excellent,Yes,Meets Expectations
+381,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,6,Good,60,Good,Excellent,Yes,Meets Expectations
+382,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,Medium,3,Good,58,Good,Good,No,Needs Improvement
+383,PhD,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,75,Good,Excellent,Yes,Exceeds Expectations
+384,Master's,Python & ML,3,"Python,ML models, DL models, TensorFlow,Django, Flask",Good,Medium,8,Good,70,Good,Good,Yes,Meets Expectations
+385,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+386,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+387,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+388,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+389,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+390,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+391,PhD,Database,3,"SSRS, MSSQL, MySQL,Data Modelling, PowerBI,SSIS, Data Mining",Excellent,Medium,7,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+392,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,60,Poor,Good,Yes,Meets Expectations
+393,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+394,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,85,Excellent,Excellent,Yes,Exceeds Expectations
+395,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,80,Good,Good,Yes,Meets Expectations
+396,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,SSIS",Excellent,Medium,8,Good,59,Good,Excellent,Yes,Meets Expectations
+397,Master's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,76,Good,Good,Yes,Meets Expectations
+398,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,90,Excellent,Good,Yes,Meets Expectations
+399,Bachelor's,Python & ML,1,"Python,ML models, DL models, Flask",Poor,Low,4,Poor,35,Good,Poor,No,Needs Improvement
+400,Bachelor's,Python & ML,2,"Python,ML models, DL models",Good,Medium,4,Good,49,Good,Good,No,Needs Improvement
+401,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+402,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI",Excellent,Medium,9,Good,80,Excellent,Excellent,Yes,Exceeds Expectations
+403,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+404,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Exceeds Expectations
+405,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+406,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+407,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+408,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+409,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+410,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+411,PhD,Mobile,5,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+412,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+413,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+414,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+415,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+416,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+417,PhD,Database,3,"SSRS, MSSQL, MySQL,Data Modelling, PowerBI,SSIS, Data Mining",Excellent,Medium,7,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+418,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,60,Poor,Good,Yes,Meets Expectations
+419,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+420,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,85,Excellent,Excellent,Yes,Exceeds Expectations
+421,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,80,Good,Good,Yes,Meets Expectations
+422,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,SSIS",Excellent,Medium,8,Good,59,Good,Excellent,Yes,Meets Expectations
+423,Master's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,76,Good,Good,Yes,Meets Expectations
+424,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,90,Excellent,Good,Yes,Meets Expectations
+425,Bachelor's,Python & ML,1,"Python,ML models, DL models, Flask",Poor,Low,4,Poor,35,Good,Poor,No,Needs Improvement
+426,PhD,Mobile,1,"iOS, Android, React Native, Flutter",Good,High,8,Good,60,Excellent,Excellent,Yes,Meets Expectations
+427,Bachelor's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,7,Good,70,Good,Excellent,Yes,Meets Expectations
+428,Bachelor's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,8,Excellent,87,Excellent,Excellent,Yes,Exceeds Expectations
+429,Master's,Python & ML,10,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,9,Excellent,83,Good,Excellent,Yes,Exceeds Expectations
+430,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,7,Good,75,Good,Excellent,Yes,Meets Expectations
+431,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, PowerBI, Data Mining",Good,Medium,7,Good,60,Good,Good,Yes,Meets Expectations
+432,Master's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,78,Excellent,Good,Yes,Exceeds Expectations
+433,Bachelor's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,5,Poor,51,Poor,Good,No,Needs Improvement
+434,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,8,Excellent,60,Good,Excellent,Yes,Meets Expectations
+435,Bachelor's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,7,Good,60,Good,Good,Yes,Meets Expectations
+436,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,8,Good,75,Good,Excellent,Yes,Meets Expectations
+437,Bachelor's,.Net,8,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,8,Excellent,80,Good,Excellent,Yes,Exceeds Expectations
+438,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,Data Mining",Excellent,High,7,Good,80,Good,Good,Yes,Meets Expectations
+439,PhD,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,8,Excellent,75,Excellent,Good,Yes,Meets Expectations
+440,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+441,PhD,Mobile,5,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+442,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+443,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+444,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+445,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,2,Good,60,Good,Good,No,Needs Improvement
+446,Bachelor's,Frontend,5,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,4,Good,45,Poor,Good,No,Needs Improvement
+447,Master's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,6,Excellent,70,Excellent,Excellent,Yes,Meets Expectations
+448,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+449,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+450,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+451,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+452,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+453,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+454,PhD,Database,3,"SSRS, MSSQL, MySQL,Data Modelling, PowerBI,SSIS, Data Mining",Excellent,Medium,7,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+455,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,60,Poor,Good,Yes,Meets Expectations
+456,Bachelor's,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+457,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,85,Excellent,Excellent,Yes,Exceeds Expectations
+458,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,80,Good,Good,Yes,Meets Expectations
+459,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,SSIS",Excellent,Medium,8,Good,59,Good,Excellent,Yes,Meets Expectations
+460,Master's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,76,Good,Good,Yes,Meets Expectations
+461,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,90,Excellent,Good,Yes,Meets Expectations
+462,Bachelor's,Python & ML,1,"Python,ML models, DL models, Flask",Poor,Low,4,Poor,35,Good,Poor,No,Needs Improvement
+463,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow",Good,Medium,6,Good,50,Excellent,Good,Yes,Meets Expectations
+464,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Excellent,89,Excellent,Good,Yes,Meets Expectations
+465,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,7,Good,72,Good,Good,Yes,Meets Expectations
+466,PhD,DevOps,6,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Excellent,75,Good,Good,Yes,Meets Expectations
+467,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, Data Mining",Good,Medium,7,Good,87,Good,Excellent,Yes,Meets Expectations
+468,Master's,Python & ML,1,"Python,MSSQL, Django, Flask",Good,High,7,Good,65,Excellent,Good,Yes,Meets Expectations
+469,Bachelor's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Low,8,Good,70,Good,Excellent,Yes,Exceeds Expectations
+470,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+471,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+472,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+473,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,55,Poor,Good,No,Needs Improvement
+474,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,70,Excellent,Good,Yes,Meets Expectations
+475,PhD,Database,3,"SSRS, MSSQL, MySQL,Data Modelling, PowerBI,SSIS, Data Mining",Excellent,Medium,7,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+476,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,60,Poor,Good,Yes,Meets Expectations
+477,Bachelor's,Mobile,1,"iOS, Android",Good,Medium,6,Excellent,65,Excellent,Excellent,Yes,Meets Expectations
+478,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,79,Good,Excellent,Yes,Exceeds Expectations
+479,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,7,Good,82,Good,Excellent,Yes,Meets Expectations
+480,PhD,Mobile,4,"iOS, Android, React Native, Flutter",Excellent,High,8,Excellent,70,Excellent,Good,Yes,Exceeds Expectations
+481,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+482,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Meets Expectations
+483,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+484,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, Data Modelling, Data Mining",Good,Medium,5,Poor,31,Poor,Poor,No,Needs Improvement
+485,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,65,Good,Good,Yes,Meets Expectations
+486,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI",Excellent,Medium,9,Good,80,Excellent,Excellent,Yes,Exceeds Expectations
+487,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+488,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation",Good,High,8,Excellent,72,Excellent,Excellent,Yes,Exceeds Expectations
+489,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+490,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+491,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,6,Good,69,Excellent,Good,Yes,Meets Expectations
+492,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,5,Good,59,Good,Excellent,Yes,Meets Expectations
+493,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,7,Good,83,Good,Good,Yes,Meets Expectations
+494,Master's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script, Vue",Good,Low,0,Good,29,Good,Poor,No,Needs Improvement
+495,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,56,Excellent,Good,Yes,Meets Expectations
+496,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security",Good,Medium,4,Good,21,Good,Poor,No,Needs Improvement
+497,PhD,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,7,Excellent,95,Excellent,Good,Yes,Exceeds Expectations
+498,Master's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,55,Good,Excellent,Yes,Meets Expectations
+499,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Excellent,90,Excellent,Good,Yes,Exceeds Expectations
+500,Master's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Postgresql, Django, Flask",Good,Low,7,Good,65,Good,Excellent,Yes,Meets Expectations
+501,Bachelor's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,0,Poor,17,Poor,Poor,No,Needs Improvement
+502,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Poor,Medium,1,Poor,13,Poor,Poor,No,Needs Improvement
+503,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,5,Poor,12,Poor,Poor,No,Needs Improvement
+504,PhD,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,High,5,Poor,12,Poor,Good,No,Needs Improvement
+505,Master's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Medium,3,Good,32,Good,Poor,No,Needs Improvement
+506,PhD,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Low,8,Good,52,Good,Good,Yes,Meets Expectations
+507,Master's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,4,Good,32,Good,Poor,No,Needs Improvement
+508,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Excellent,High,1,Poor,25,Poor,Poor,No,Needs Improvement
+509,Master's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,1,Excellent,13,Excellent,Good,No,Meets Expectations
+510,Bachelor's,Mobile,8,"iOS, Android, React Native, Flutter",Good,Low,2,Good,56,Good,Good,Yes,Meets Expectations
+511,Bachelor's,Python & ML,2,"Python,ML models",Excellent,Low,9,Good,53,Good,Excellent,Yes,Meets Expectations
+512,Bachelor's,Frontend,0,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,9,Excellent,86,Excellent,Excellent,Yes,Exceeds Expectations
+513,Bachelor's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,80,Excellent,Good,Yes,Exceeds Expectations
+514,Bachelor's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Good,40,Good,Excellent,Yes,Meets Expectations
+515,Bachelor's,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,Medium,8,Good,55,Good,Good,Yes,Meets Expectations
+516,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,9,Good,34,Good,Excellent,No,Meets Expectations
+517,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,3,Poor,37,Poor,Poor,No,Needs Improvement
+518,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Low,3,Poor,72,Poor,Excellent,Yes,Meets Expectations
+519,Master's,Mobile,5,"iOS, Android, React Native, Flutter",Excellent,Low,8,Poor,64,Poor,Good,Yes,Exceeds Expectations
+520,Master's,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,7,Excellent,38,Excellent,Good,Yes,Exceeds Expectations
+521,Master's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,9,Good,29,Good,Excellent,Yes,Exceeds Expectations
+522,Bachelor's,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Poor,Medium,2,Poor,3,Poor,Poor,No,Needs Improvement
+523,Bachelor's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,0,Poor,9,Poor,Poor,No,Needs Improvement
+524,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Good,39,Good,Excellent,Yes,Exceeds Expectations
+525,PhD,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,6,Poor,54,Poor,Good,Yes,Meets Expectations
+526,Master's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Good,79,Good,Excellent,No,Meets Expectations
+527,PhD,.Net,8,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,2,Good,58,Good,Good,No,Meets Expectations
+528,Bachelor's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,9,Excellent,31,Excellent,Good,Yes,Exceeds Expectations
+529,Bachelor's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,0,Good,86,Good,Excellent,Yes,Meets Expectations
+530,Bachelor's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Good,82,Good,Good,Yes,Exceeds Expectations
+531,PhD,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,7,Good,87,Good,Excellent,Yes,Exceeds Expectations
+532,PhD,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,95,Good,Excellent,Yes,Exceeds Expectations
+533,Bachelor's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,1,Poor,60,Poor,Good,No,Meets Expectations
+534,Bachelor's,Python & ML,0,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,0,Good,29,Good,Poor,No,Needs Improvement
+535,PhD,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,10,Excellent,97,Excellent,Excellent,Yes,Exceeds Expectations
+536,Master's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,4,Poor,34,Poor,Poor,No,Needs Improvement
+537,Master's,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,1,Good,43,Good,Excellent,Yes,Meets Expectations
+538,Master's,Mobile,6,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,93,Good,Excellent,No,Meets Expectations
+539,Bachelor's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Low,7,Excellent,36,Excellent,Good,Yes,Exceeds Expectations
+540,PhD,Mobile,1,"iOS, Android, React Native, Flutter",Good,Medium,9,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+541,Master's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,8,Excellent,95,Excellent,Excellent,Yes,Exceeds Expectations
+542,Master's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,6,Good,45,Good,Good,Yes,Meets Expectations
+543,Bachelor's,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,7,Good,8,Good,Excellent,Yes,Meets Expectations
+544,Bachelor's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Low,2,Poor,27,Poor,Poor,No,Needs Improvement
+545,Bachelor's,Python & ML,0,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Medium,4,Good,37,Good,Poor,No,Needs Improvement
+546,PhD,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Poor,Medium,0,Poor,31,Poor,Poor,No,Needs Improvement
+547,Bachelor's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,5,Poor,91,Poor,Good,Yes,Meets Expectations
+548,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Low,0,Poor,33,Poor,Poor,No,Needs Improvement
+549,Bachelor's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,0,Poor,21,Poor,Good,Yes,Meets Expectations
+550,Bachelor's,Mobile,0,"iOS, Android, React Native, Flutter",Excellent,Low,5,Good,70,Good,Good,Yes,Meets Expectations
+551,PhD,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,10,Excellent,91,Excellent,Excellent,Yes,Exceeds Expectations
+552,PhD,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Low,1,Poor,28,Poor,Poor,No,Needs Improvement
+553,Bachelor's,Frontend,9,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Excellent,1,Excellent,Excellent,Yes,Exceeds Expectations
+554,PhD,Mobile,2,"iOS, Android, React Native, Flutter",Excellent,High,7,Excellent,98,Excellent,Good,Yes,Exceeds Expectations
+555,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,2,Good,85,Good,Good,Yes,Meets Expectations
+556,PhD,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,8,Good,86,Good,Excellent,Yes,Meets Expectations
+557,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,8,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+558,Master's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Excellent,7,Excellent,Excellent,Yes,Exceeds Expectations
+559,Master's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,2,Good,51,Good,Good,Yes,Meets Expectations
+560,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Poor,Medium,5,Good,38,Poor,Poor,No,Needs Improvement
+561,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,97,Excellent,Excellent,Yes,Exceeds Expectations
+562,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,7,Excellent,44,Good,Good,Yes,Meets Expectations
+563,Bachelor's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,8,Good,29,Good,Good,Yes,Meets Expectations
+564,PhD,Mobile,10,"iOS, Android, React Native, Flutter",Good,Medium,0,Good,33,Good,Poor,No,Needs Improvement
+565,Bachelor's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,4,Poor,80,Poor,Excellent,Yes,Meets Expectations
+566,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,8,Excellent,33,Excellent,Excellent,Yes,Exceeds Expectations
+567,Master's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,9,Good,21,Good,Excellent,Yes,Meets Expectations
+568,PhD,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,9,Excellent,30,Excellent,Excellent,Yes,Exceeds Expectations
+569,PhD,Database,0,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling",Poor,Medium,3,Poor,26,Poor,Poor,No,Needs Improvement
+570,PhD,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,10,Excellent,84,Excellent,Good,Yes,Exceeds Expectations
+571,Bachelor's,.Net,0,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,Low,3,Good,31,Good,Poor,No,Needs Improvement
+572,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,1,Good,43,Good,Good,Yes,Meets Expectations
+573,PhD,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,83,Excellent,Good,Yes,Exceeds Expectations
+574,Master's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,8,Poor,31,Poor,Good,Yes,Meets Expectations
+575,Master's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,4,Poor,11,Poor,Poor,No,Needs Improvement
+576,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,3,Excellent,1,Excellent,Good,Yes,Meets Expectations
+577,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Excellent,82,Excellent,Good,Yes,Exceeds Expectations
+578,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,High,6,Good,29,Good,Good,Yes,Meets Expectations
+579,Bachelor's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,2,Good,46,Poor,Good,Yes,Meets Expectations
+580,Bachelor's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,1,Poor,34,Poor,Poor,No,Needs Improvement
+581,Bachelor's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,High,2,Poor,33,Poor,Poor,No,Needs Improvement
+582,PhD,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+583,Master's,Frontend,0,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Poor,Medium,2,Poor,24,Poor,Poor,No,Needs Improvement
+584,Master's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,7,Good,60,Good,Good,Yes,Meets Expectations
+585,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling",Poor,High,0,Poor,26,Poor,Poor,No,Needs Improvement
+586,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Low,4,Good,87,Good,Good,Yes,Meets Expectations
+587,Master's,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,Medium,9,Good,38,Good,Good,Yes,Meets Expectations
+588,Master's,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,High,1,Poor,54,Poor,Good,Yes,Meets Expectations
+589,Master's,Python & ML,2,"Python,ML models, DL models",Poor,Medium,4,Poor,22,Poor,Poor,No,Needs Improvement
+590,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,0,Poor,9,Poor,Poor,No,Needs Improvement
+591,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Low,5,Good,69,Good,Good,Yes,Meets Expectations
+592,Master's,Mobile,1,"iOS, Android, React Native, Flutter",Poor,Medium,4,Poor,24,Poor,Poor,No,Needs Improvement
+593,Master's,.Net,9,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,9,Excellent,90,Excellent,Good,Yes,Exceeds Expectations
+594,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle",Poor,Medium,3,Poor,20,Poor,Poor,No,Needs Improvement
+595,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,6,Good,64,Good,Good,Yes,Meets Expectations
+596,Bachelor's,Mobile,0,"iOS, Android, React Native, Flutter",Poor,High,0,Poor,10,Poor,Poor,No,Needs Improvement
+597,PhD,.Net,10,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,Medium,0,Poor,19,Poor,Poor,No,Needs Improvement
+598,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,7,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+599,PhD,Mobile,2,"iOS, Android, React Native, Flutter",Good,High,8,Good,50,Good,Good,Yes,Meets Expectations
+600,PhD,.Net,0,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,2,Good,65,Good,Good,Yes,Meets Expectations
+601,Bachelor's,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Poor,Low,0,Poor,10,Poor,Poor,No,Needs Improvement
+602,Bachelor's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,7,Excellent,91,Excellent,Good,Yes,Exceeds Expectations
+603,Master's,Mobile,2,"iOS, Android, React Native, Flutter",Poor,Low,1,Poor,21,Poor,Poor,No,Needs Improvement
+604,Master's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,87,Excellent,Good,Yes,Exceeds Expectations
+605,PhD,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Good,83,Good,Excellent,Yes,Meets Expectations
+606,Master's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Excellent,92,Excellent,Excellent,Yes,Exceeds Expectations
+607,Master's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,1,Good,61,Good,Good,Yes,Meets Expectations
+608,PhD,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,5,Good,71,Good,Good,Yes,Meets Expectations
+609,Master's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,6,Good,62,Good,Excellent,Yes,Meets Expectations
+610,PhD,Mobile,7,"iOS, Android, React Native, Flutter",Good,High,7,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+611,Bachelor's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Good,56,Good,Good,Yes,Meets Expectations
+612,Bachelor's,DevOps,1,"Jenkins, Git, Ansible, Security",Poor,High,3,Poor,24,Poor,Poor,No,Needs Improvement
+613,Bachelor's,Mobile,1,"iOS, Android, React Native, Flutter",Poor,High,3,Poor,31,Poor,Poor,No,Needs Improvement
+614,Master's,Mobile,9,"iOS, Android, React Native, Flutter",Good,High,8,Excellent,96,Excellent,Excellent,Yes,Exceeds Expectations
+615,Bachelor's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,98,Excellent,Good,Yes,Exceeds Expectations
+616,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Low,6,Good,71,Good,Good,Yes,Meets Expectations
+617,PhD,.Net,0,"C#, .Net Core Framework, ASP.Net",Low,Medium,3,Poor,9,Poor,Poor,No,Needs Improvement
+618,PhD,Mobile,1,"iOS, Android, React Native, Flutter",Excellent,Low,3,Good,53,Good,Good,Yes,Meets Expectations
+619,Bachelor's,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,Medium,3,Good,40,Good,Excellent,Yes,Meets Expectations
+620,Bachelor's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,4,Good,43,Good,Good,Yes,Meets Expectations
+621,Bachelor's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,5,Good,69,Good,Good,Yes,Meets Expectations
+622,Master's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,7,Good,68,Good,Good,Yes,Meets Expectations
+623,Master's,DevOps,0,"Jenkins, Git",Good,Low,1,Poor,13,Poor,Poor,No,Needs Improvement
+624,PhD,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,High,7,Excellent,87,Excellent,Good,Yes,Exceeds Expectations
+625,PhD,Frontend,5,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Excellent,91,Excellent,Excellent,Yes,Exceeds Expectations
+626,Master's,Mobile,10,"iOS, Android, React Native, Flutter",Good,Medium,7,Excellent,92,Excellent,Excellent,Yes,Exceeds Expectations
+627,Bachelor's,.Net,0,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,High,4,Poor,29,Poor,Poor,No,Needs Improvement
+628,Master's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,5,Good,77,Good,Good,Yes,Meets Expectations
+629,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,Low,1,Poor,22,Poor,Poor,No,Needs Improvement
+630,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,5,Good,38,Good,Excellent,Yes,Meets Expectations
+631,Bachelor's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,22,Good,Excellent,Yes,Exceeds Expectations
+632,Bachelor's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Good,54,Good,Excellent,Yes,Meets Expectations
+633,Master's,.Net,9,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,5,Good,14,Good,Good,Yes,Meets Expectations
+634,PhD,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Good,89,Excellent,Excellent,Yes,Exceeds Expectations
+635,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,4,Good,45,Good,Excellent,Yes,Meets Expectations
+636,Bachelor's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,6,Good,44,Good,Good,Yes,Meets Expectations
+637,Bachelor's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,6,Good,56,Good,Good,Yes,Meets Expectations
+638,PhD,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Low,3,Poor,22,Poor,Poor,No,Needs Improvement
+639,Master's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Low,0,Poor,21,Poor,Poor,No,Needs Improvement
+640,Bachelor's,DevOps,0,"Jenkins, Git,Cloud management",Good,Low,2,Poor,16,Poor,Poor,No,Needs Improvement
+641,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,6,Good,61,Good,Good,Yes,Meets Expectations
+642,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,6,Good,39,Good,Excellent,Yes,Meets Expectations
+643,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Excellent,86,Excellent,Excellent,Yes,Exceeds Expectations
+644,Master's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Good,96,Excellent,Good,Yes,Exceeds Expectations
+645,Master's,Mobile,5,"iOS, Android, React Native, Flutter",Excellent,Low,4,Good,58,Good,Good,Yes,Meets Expectations
+646,Bachelor's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Poor,Medium,0,Poor,13,Poor,Poor,No,Needs Improvement
+647,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Excellent,69,Excellent,Excellent,Yes,Exceeds Expectations
+648,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Low,4,Good,57,Good,Excellent,Yes,Meets Expectations
+649,Master's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,4,Good,50,Good,Excellent,Yes,Meets Expectations
+650,PhD,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,7,Excellent,89,Excellent,Good,Yes,Exceeds Expectations
+651,Bachelor's,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,2,Poor,32,Poor,Poor,No,Needs Improvement
+652,Master's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,87,Excellent,Excellent,Yes,Exceeds Expectations
+653,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,52,Good,Good,Yes,Meets Expectations
+654,PhD,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,10,Excellent,90,Good,Excellent,Yes,Exceeds Expectations
+655,Master's,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,High,9,Excellent,97,Excellent,Excellent,Yes,Exceeds Expectations
+656,Master's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Poor,Low,2,Poor,21,Poor,Poor,No,Needs Improvement
+657,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Low,5,Good,54,Good,Excellent,Yes,Meets Expectations
+658,PhD,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Excellent,78,Excellent,Good,Yes,Exceeds Expectations
+659,Master's,Mobile,0,"iOS, Android, React Native, Flutter",Poor,Low,0,Poor,12,Poor,Poor,No,Needs Improvement
+660,Bachelor's,Python & ML,0,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Low,2,Good,24,Poor,Poor,No,Needs Improvement
+661,Bachelor's,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,4,Good,44,Good,Good,Yes,Meets Expectations
+662,PhD,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,5,Good,88,Good,Excellent,Yes,Meets Expectations
+663,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Excellent,High,7,Excellent,87,Excellent,Good,Yes,Exceeds Expectations
+664,Bachelor's,Python & ML,0,"Python,ML models",Poor,Low,3,Poor,38,Poor,Poor,No,Needs Improvement
+665,Master's,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,7,Good,63,Good,Good,Yes,Meets Expectations
+666,Master's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,3,Poor,32,Poor,Poor,No,Needs Improvement
+667,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,5,Good,63,Good,Good,Yes,Meets Expectations
+668,PhD,Mobile,6,"iOS, Android, React Native, Flutter",Good,Low,4,Good,66,Good,Good,Yes,Meets Expectations
+669,PhD,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Excellent,94,Excellent,Good,Yes,Exceeds Expectations
+670,PhD,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,4,Good,59,Good,Excellent,Yes,Meets Expectations
+671,PhD,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,10,Excellent,98,Excellent,Good,Yes,Exceeds Expectations
+672,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,6,Good,53,Good,Good,Yes,Meets Expectations
+673,Bachelor's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,3,Poor,15,Poor,Poor,No,Needs Improvement
+674,Master's,DevOps,1,"Jenkins, Git, Ansible, Security, Automation",Good,Low,4,Poor,16,Poor,Poor,No,Needs Improvement
+675,PhD,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,95,Excellent,Good,Yes,Exceeds Expectations
+676,PhD,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,2,Good,52,Good,Excellent,Yes,Meets Expectations
+677,PhD,DevOps,2,"Jenkins, Git, Ansible, Security, Cloud management",Good,Low,2,Poor,35,Poor,Poor,No,Needs Improvement
+678,PhD,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,2,Good,43,Good,Excellent,Yes,Meets Expectations
+679,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,5,Good,71,Good,Good,Yes,Meets Expectations
+680,Bachelor's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,7,Good,45,Good,Good,Yes,Meets Expectations
+681,PhD,Mobile,8,"iOS, Android, React Native, Flutter",Excellent,High,9,Excellent,85,Excellent,Excellent,Yes,Exceeds Expectations
+682,PhD,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,9,Excellent,91,Excellent,Excellent,Yes,Exceeds Expectations
+683,Master's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,5,Good,56,Good,Good,Yes,Meets Expectations
+684,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,4,Good,48,Good,Good,Yes,Meets Expectations
+685,Master's,Python & ML,1,"Python,ML models, DL models",Poor,Low,0,Poor,11,Poor,Poor,No,Needs Improvement
+686,PhD,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,8,Excellent,97,Excellent,Excellent,Yes,Exceeds Expectations
+687,Master's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,6,Good,58,Good,Good,Yes,Meets Expectations
+688,Bachelor's,Frontend,1,"Angular JS, Node JS, HTML, CSS",Poor,Low,0,Poor,8,Poor,Poor,No,Needs Improvement
+689,Master's,Mobile,6,"iOS, Android, React Native, Flutter",Excellent,High,8,Good,64,Good,Good,Yes,Meets Expectations
+690,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,4,Good,51,Good,Excellent,Yes,Meets Expectations
+691,Master's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,4,Good,44,Excellent,Good,Yes,Meets Expectations
+692,Bachelor's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,10,Excellent,89,Excellent,Good,Yes,Exceeds Expectations
+693,Bachelor's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Excellent,88,Excellent,Good,Yes,Exceeds Expectations
+694,Master's,Mobile,5,"iOS, Android, React Native, Flutter",Poor,Low,3,Poor,15,Poor,Poor,No,Needs Improvement
+695,Master's,Frontend,1,"Angular JS, Node JS, HTML",Good,Low,3,Poor,4,Poor,Poor,No,Needs Improvement
+696,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,89,Good,Good,Yes,Exceeds Expectations
+697,PhD,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,10,Excellent,88,Excellent,Good,Yes,Exceeds Expectations
+698,Master's,Python & ML,1,"Python,ML models, DL models",Low,Low,4,Poor,36,Poor,Poor,No,Needs Improvement
+699,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Poor,Low,1,Poor,22,Poor,Poor,No,Needs Improvement
+700,Master's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,5,Good,38,Good,Excellent,Yes,Meets Expectations
+701,Bachelor's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,22,Good,Excellent,Yes,Exceeds Expectations
+702,Bachelor's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Good,54,Good,Excellent,Yes,Meets Expectations
+703,Master's,.Net,9,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,5,Good,14,Good,Good,Yes,Meets Expectations
+704,PhD,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,8,Good,89,Excellent,Excellent,Yes,Exceeds Expectations
+705,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,4,Good,45,Good,Excellent,Yes,Meets Expectations
+706,Bachelor's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,6,Good,44,Good,Good,Yes,Meets Expectations
+707,Bachelor's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,6,Good,56,Good,Good,Yes,Meets Expectations
+708,PhD,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Low,3,Poor,22,Poor,Poor,No,Needs Improvement
+709,Master's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Low,0,Poor,21,Poor,Poor,No,Needs Improvement
+710,Bachelor's,DevOps,0,"Jenkins, Git,Cloud management",Good,Low,2,Poor,16,Poor,Poor,No,Needs Improvement
+711,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,6,Good,61,Good,Good,Yes,Meets Expectations
+712,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,6,Good,39,Good,Excellent,Yes,Meets Expectations
+713,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Excellent,86,Excellent,Excellent,Yes,Exceeds Expectations
+714,Master's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Good,96,Excellent,Good,Yes,Exceeds Expectations
+715,Master's,Mobile,5,"iOS, Android, React Native, Flutter",Excellent,Low,4,Good,58,Good,Good,Yes,Meets Expectations
+716,Bachelor's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Poor,Medium,0,Poor,13,Poor,Poor,No,Needs Improvement
+717,Bachelor's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Excellent,87,Excellent,Excellent,Yes,Exceeds Expectations
+718,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Low,4,Good,57,Good,Excellent,Yes,Meets Expectations
+719,Master's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,4,Good,50,Good,Excellent,Yes,Meets Expectations
+720,PhD,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,10,Excellent,89,Excellent,Good,Yes,Exceeds Expectations
+721,Master's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,4,Good,56,Good,Good,Yes,Meets Expectations
+722,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,2,Poor,27,Poor,Poor,No,Needs Improvement
+723,Master's,.Net,1,"C#, .Net Core Framework, Visual Basic .Net, LinQ",Poor,Low,0,Poor,15,Poor,Poor,No,Needs Improvement
+724,Master's,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,Medium,5,Good,85,Good,Good,Yes,Meets Expectations
+725,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,70,Good,Good,Yes,Meets Expectations
+726,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL",Poor,Low,2,Poor,25,Poor,Poor,No,Needs Improvement
+727,PhD,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Low,7,Good,39,Good,Good,Yes,Meets Expectations
+728,PhD,Mobile,0,"iOS, Android, React Native",Poor,Low,0,Poor,25,Poor,Poor,No,Needs Improvement
+729,PhD,Mobile,7,"iOS, Android, React Native, Flutter",Good,Medium,10,Excellent,83,Excellent,Excellent,Yes,Exceeds Expectations
+730,Master's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,8,Excellent,98,Excellent,Excellent,Yes,Meets Expectations
+731,Master's,Mobile,4,"iOS, Android,  Flutter",Good,Low,7,Good,50,Good,Good,Yes,Meets Expectations
+732,Master's,Python & ML,4,"Python,ML models,TensorFlow,  MSSQL, Flask",Good,Medium,7,Good,50,Good,Good,Yes,Meets Expectations
+733,PhD,DevOps,4,"Jenkins, Git, Security, Automation, Cloud management",Excellent,Medium,9,Excellent,55,Excellent,Good,Yes,Exceeds Expectations
+734,PhD,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,8,Good,85,Good,Good,Yes,Meets Expectations
+735,PhD,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, Entity Framework",Good,Medium,6,Good,50,Good,Good,Yes,Meets Expectations
+736,PhD,Frontend,5," Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Excellent,90,Excellent,Excellent,Yes,Exceeds Expectations
+737,PhD,Mobile,1,"Android, React Native, Flutter",Good,Low,5,Good,10,Poor,Poor,No,Needs Improvement
+738,PhD,Python & ML,0,"Python, Flask",Excellent,Low,7,Good,20,Good,Good,No,Exceeds Expectations
+739,PhD,Python & ML,5,"Python,ML models, DL models, TensorFlow, MSSQL, Django, Flask",Good,Medium,7,Good,55,Good,Good,Yes,Meets Expectations
+740,Master's,Python & ML,0,Python,Good,Low,3,Good,5,Poor,Poor,No,Needs Improvement
+741,Bachelor's,Database,5,"SSRS, MSSQL, Data Modelling, PowerBI, Data Warehouse",Good,Low,5,Good,21,Good,Poor,No,Needs Improvement
+742,Master's,.Net,3,"C#, .Net Core Framework, Visual Basic .Net, LinQ, Entity Framework",Good,Low,6,Good,55,Good,Good,Yes,Meets Expectations
+743,Bachelor's,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Good,98,Good,Good,Yes,Meets Expectations
+744,PhD,Python & ML,0,Python,Good,Low,4,Good,5,Poor,Good,Yes,Meets Expectations
+745,Master's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,7,Good,85,Good,Good,Yes,Meets Expectations
+746,Bachelor's,Frontend,0,"HTML, CSS, Bootstrap, Java Script",Good,Low,3,Good,10,Good,Good,Yes,Meets Expectations
+747,Bachelor's,Python & ML,2,"Python, MSSQL, Flask",Good,Medium,4,Good,15,Poor,Poor,No,Needs Improvement
+748,Bachelor's,Frontend,3,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,Low,4,Good,25,Good,Good,Yes,Meets Expectations
+749,PhD,DevOps,1," Git, Automation",Good,Medium,3,Poor,5,Poor,Poor,No,Needs Improvement
+750,PhD,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,10,Good,83,Good,Excellent,Yes,Exceeds Expectations
+751,Bachelor's,Database,1,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling,Data Warehouse, Data Mining",Poor,Low,4,Poor,38,Poor,Poor,No,Needs Improvement
+752,Master's,Frontend,3,"Angular JS,Node JS, HTML, CSS, Bootstrap, JavaScript",Good,Medium,5,Good,48,Good,Excellent,Yes,Meets Expectations
+753,PhD,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Excellent,82,Excellent,Good,Yes,Exceeds Expectations
+754,Master's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,7,Good,68,Good,Good,Yes,Meets Expectations
+755,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,High,8,Excellent,86,Excellent,Excellent,Yes,Exceeds Expectations
+756,Master's,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,High,5,Good,55,Excellent,Good,No,Meets Expectations
+757,Master's,Mobile,2,"iOS, Android, React Native",Good,Low,1,Poor,34,Poor,Poor,No,Needs Improvement
+758,Master's,Python & ML,0,"Python,ML models, DL models, MSSQL, Postgresql",Good,Medium,7,Excellent,25,Excellent,Good,Yes,Meets Expectations
+759,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,4,Good,37,Good,Good,Yes,Meets Expectations
+760,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,78,Good,Excellent,Yes,Exceeds Expectations
+761,Master's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, BigData, SSIS, Data Warehouse, Data Mining",Poor,Low,5,Good,34,poor,Poor,No,Needs Improvement
+762,Bachelor's,Mobile,9,"iOS, Android, React Native, Flutter",Excellent,Medium,7,Good,78,Excellent,Excellent,yes,Exceeds Expectations
+763,Master's,Frontend,1," HTML, CSS, Bootstrap, Java Script",Good,Low,4,Good,31,Good,Good,No,Meets Expectations
+764,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Excellent,High,8,Good,68,Good,Good,No,Meets Expectations
+765,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Low,7,Excellent,83,Excellent,Excellent,Yes,Exceeds Expectations
+766,Master's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,4,Good,56,Good,Good,No,Meets Expectations
+767,Bachelor's,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,2,Poor,23,Poor,Poor,No,Needs Improvement
+768,Master's,.Net,1,"C#, .Net Core Framework, Visual Basic .Net, LinQ",Poor,Low,0,Poor,15,Poor,Poor,No,Needs Improvement
+769,Master's,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,Medium,5,Good,85,Good,Good,Yes,Meets Expectations
+770,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Good,70,Good,Good,Yes,Meets Expectations
+771,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL",Poor,Low,0,Poor,25,Poor,Poor,No,Needs Improvement
+772,PhD,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Low,7,Good,39,Good,Good,Yes,Meets Expectations
+773,PhD,.Net,0,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Poor,Low,3,poor,8,Poor,Poor,No,Needs Improvement
+774,Master's,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,9,Excellent,81,Excellent,Excellent,Yes,Exceeds Expectations
+775,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,10,Excellent,80,Excellent,Good,Yes,Exceeds Expectations
+776,PhD,Mobile,2,"iOS, Android, React Native, Flutter",Excellent,Medium,6,Good,50,Good,Good,No,Meets Expectations
+777,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS",Good,Low,0,Poor,9,Poor,Poor,No,Needs Improvement
+778,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,5,Good,90,Good,Good,No,Meets Expectations
+779,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Poor,Low,2,Poor,32,Poor,Poor,No,Needs Improvement
+780,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,3,Poor,21,Poor,Poor,No,Needs Improvement
+781,PhD,Frontend,6,"Angular JS, Node JS, HTML, CSS, Bootstrap, JavaScript",Excellent,Medium,7,Excellent,78,Good,Excellent,Yes,Exceeds Expectations
+782,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net",Good,Medium,1,Poor,27,Poor,Poor,No,Needs Improvement
+783,PhD,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Excellent,69,Excellent,Excellent,Yes,Exceeds Expectations
+784,PhD,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,6,Good,67,Good,Excellent,Yes,Meets Expectations
+785,PhD,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,9,Excellent,75,Excellent,Good,Yes,Exceeds Expectations
+786,Bachelor's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,6,Good,72,Good,Excellent,No,Meets Expectations
+787,PhD,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,High,4,Poor,19,Poor,Poor,No,Needs Improvement
+788,Master's,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,7,Good,58,Good,Good,Yes,Meets Expectations
+789,PhD,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,9,Excellent,89,Excellent,Good,Yes,Exceeds Expectations
+790,Bachelor's,.Net,0,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,Low,4,Poor,12,Poor,Poor,No,Needs Improvement
+791,Bachelor's,Mobile,0,"iOS, Android, React Native",Excellent,Low,0,Good,75,Good,Excellent,Yes,Meets Expectations
+792,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,4,Poor,17,Poor,Poor,No,Needs Improvement
+793,Bachelor's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,7,Excellent,81,good,Excellent,Yes,Exceeds Expectations
+794,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation",Good,Medium,7,Good,70,Good,Excellent,Yes,Meets Expectations
+795,Bachelor's,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,6,Good,86,Good,Excellent,No,Meets Expectations
+796,PhD,Mobile,0,"iOS, Android, React Native",Poor,Low,0,Poor,25,Poor,Poor,No,Needs Improvement
+797,PhD,Mobile,7,"iOS, Android, React Native, Flutter",Good,Medium,10,Excellent,83,Excellent,Excellent,Yes,Exceeds Expectations
+798,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Excellent,Low,8,Excellent,86,Excellent,Good,Yes,Exceeds Expectations
+799,Bachelor's,DevOps,4,"Jenkins, Git, Ansible, Security,Cloud management",Excellent,Low,5,Poor,19,Poor,Poor,No,Needs Improvement
+800,PhD,DevOps,6,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Excellent,71,Excellent,Excellent,Yes,Exceeds Expectations
+801,Master's,Mobile,2,"iOS, Android, React Native",Poor,Medium,3,Poor,24,Poor,Poor,No,Needs Improvement
+802,Master's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,10,Excellent,94,Excellent,Good,Yes,Exceeds Expectations
+803,Bachelor's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,8,Good,87,Good,Excellent,Yes,Meets Expectations
+804,Bachelor's,Frontend,1," HTML, CSS, Bootstrap, Java Script",Good,Medium,3,Poor,34,Good,Poor,No,Needs Improvement
+805,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,6,Good,76,Poor,Good,No,Meets Expectations
+806,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Excellent,81,Good,Excellent,Yes,Exceeds Expectations
+807,PhD,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,8,Excellent,73,Excellent,Excellent,Yes,Exceeds Expectations
+808,Bachelor's,.Net,2,"C#, .Net Core Framework, Visual Basic .Net, LinQ",Good,Medium,4,Poor,1,Poor,Poor,No,Needs Improvement
+809,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,High,7,Good,54,Good,Good,Yes,Meets Expectations
+810,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Excellent,98,Good,Excellent,Yes,Exceeds Expectations
+811,PhD,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,10,Excellent,87,Excellent,Good,Yes,Exceeds Expectations
+812,Master's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,6,Good,50,Good,Good,Yes,Meets Expectations
+813,PhD,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,10,Excellent,88,Good,Excellent,Yes,Exceeds Expectations
+814,Master's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,3,Poor,23,Poor,Poor,No,Needs Improvement
+815,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net",Poor,High,2,Poor,10,Poor,Poor,No,Needs Improvement
+816,PhD,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,7,Good,78,Good,Good,No,Meets Expectations
+817,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,7,Good,54,Good,Excellent,No,Meets Expectations
+818,Bachelor's,Mobile,5,"iOS, Android, React Native, Flutter",Excellent,Medium,8,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+819,PhD,Database,10,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse",Good,Medium,9,Good,44,Good,Good,Yes,Meets Expectations
+820,Bachelor's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,7,Good,47,Good,Good,Yes,Meets Expectations
+821,PhD,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,5,Poor,32,Poor,Poor,No,Needs Improvement
+822,Master's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Excellent,87,Excellent,Good,Yes,Exceeds Expectations
+823,Bachelor's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Poor,Medium,5,Poor,23,Poor,Poor,No,Needs Improvement
+824,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,Low,4,Poor,34,Poor,Poor,No,Needs Improvement
+825,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,7,Excellent,91,Excellent,Good,Yes,Exceeds Expectations
+826,Bachelor's,Mobile,6,"iOS, Android, React Native",Poor,High,2,Poor,20,Poor,Poor,No,Needs Improvement
+827,PhD,Mobile,2,"iOS, Android, React Native, Flutter",Excellent,High,7,Good,71,Good,Good,Yes,Meets Expectations
+828,Bachelor's,.Net,9,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,10,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+829,PhD,Mobile,7,"iOS, Android, React Native, Flutter",Excellent,High,10,Excellent,79,Excellent,Good,Yes,Exceeds Expectations
+830,Bachelor's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse",Good,High,6,Good,49,Good,Excellent,Yes,Meets Expectations
+831,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,8,Excellent,83,Excellent,Good,Yes,Exceeds Expectations
+832,Master's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,8,Excellent,82,Excellent,Excellent,Yes,Exceeds Expectations
+833,PhD,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Poor,Medium,5,Poor,23,Poor,Poor,No,Needs Improvement
+834,Master's,Mobile,5,"iOS, Android, React Native, Flutter",Excellent,High,10,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+835,PhD,Mobile,1,"iOS, Android",Excellent,High,7,Good,71,Good,Good,Yes,Meets Expectations
+836,PhD,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,7,Good,71,Good,Good,Yes,Meets Expectations
+837,Master's,Frontend,10,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Good,62,Good,Good,No,Meets Expectations
+838,Master's,Python & ML,7,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,7,Good,75,Good,Good,Yes,Meets Expectations
+839,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,7,Excellent,91,Excellent,Excellent,Yes,Exceeds Expectations
+840,PhD,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,Low,4,Poor,25,Poor,Poor,No,Needs Improvement
+841,PhD,Frontend,1,"HTML, CSS, Bootstrap, Java Script",Excellent,Low,7,Good,44,Excellent,Good,No,Meets Expectations
+842,PhD,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,7,Excellent,74,Excellent,Good,Yes,Exceeds Expectations
+843,Bachelor's,Mobile,2,"iOS, Android, React Native",Poor,Low,5,Poor,26,Poor,Poor,No,Needs Improvement
+844,Master's,Frontend,2," Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Medium,8,Good,60,Good,Good,Yes,Meets Expectations
+845,Bachelor's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,9,Excellent,78,Excellent,Excellent,Yes,Exceeds Expectations
+846,Master's,Python & ML,9,"Python,ML models, DL models, TensorFlow",Good,Medium,2,Poor,28,Poor,Poor,No,Needs Improvement
+847,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,9,Excellent,98,Excellent,Excellent,Yes,Exceeds Expectations
+848,PhD,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,7,Good,74,Good,Good,No,Meets Expectations
+849,Bachelor's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,8,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+850,PhD,DevOps,2,"Jenkins, Git, Ansible, Security,Cloud management",Good,Low,2,Poor,15,Poor,Poor,No,Needs Improvement
+851,PhD,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,9,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+852,Master's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,4,Good,65,Good,Excellent,Yes,Meets Expectations
+853,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,7,Excellent,90,Excellent,Excellent,Yes,Exceeds Expectations
+854,PhD,Python & ML,1,"Python,ML models, DL models, TensorFlow, MSSQL, Postgresql",Excellent,High,8,Excellent,98,Good,Excellent,Yes,Exceeds Expectations
+855,PhD,Mobile,2,"iOS, Android, React Native",Good,Low,8,Good,70,Good,Good,No,Meets Expectations
+856,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Excellent,Low,3,Poor,29,Poor,Poor,No,Needs Improvement
+857,Master's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse",Excellent,Medium,7,Good,67,Good,Good,Yes,Meets Expectations
+858,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,Medium,5,Poor,34,Poor,Poor,No,Needs Improvement
+859,PhD,.Net,0,"C#, .Net Core Framework, ASP.Net, ADO.Net",Good,High,5,Poor,20,Poor,Poor,No,Needs Improvement
+860,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,6,Excellent,68,Excellent,Good,Yes,Meets Expectations
+861,PhD,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,10,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+862,Master's,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,9,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+863,Master's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Excellent,Low,4,Poor,8,Poor,Poor,No,Needs Improvement
+864,Bachelor's,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,7,Excellent,71,Excellent,Good,Yes,Exceeds Expectations
+865,Bachelor's,DevOps,9,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Good,57,Good,Good,No,Meets Expectations
+866,PhD,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,7,Excellent,90,Good,Excellent,Yes,Exceeds Expectations
+867,PhD,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Medium,7,Good,32,Good,Good,Yes,Meets Expectations
+868,Master's,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,6,Good,61,Good,Good,Yes,Meets Expectations
+869,Bachelor's,Python & ML,5,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,9,Excellent,97,Excellent,Good,Yes,Exceeds Expectations
+870,PhD,Python & ML,0,"Python,ML models, DL models, TensorFlow",Poor,Medium,0,Poor,21,Poor,Poor,No,Needs Improvement
+871,Master's,Frontend,1," Node JS, HTML, CSS, Bootstrap, Java Script",Poor,High,2,Poor,23,Poor,Poor,No,Needs Improvement
+872,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,6,Good,81,Good,Excellent,No,Meets Expectations
+873,Bachelor's,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Low,2,Poor,23,Poor,Poor,No,Needs Improvement
+874,Master's,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,Medium,8,Good,63,Good,Good,Yes,Meets Expectations
+875,Master's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,Medium,1,Poor,7,Poor,Poor,No,Needs Improvement
+876,Bachelor's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,10,Excellent,100,Excellent,Good,Yes,Exceeds Expectations
+877,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,8,Excellent,92,Good,Excellent,Yes,Exceeds Expectations
+878,PhD,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,7,Good,62,Good,Good,Yes,Meets Expectations
+879,Master's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,3,Poor,6,Poor,Poor,No,Needs Improvement
+880,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,67,Good,Good,Yes,Meets Expectations
+881,Bachelor's,Mobile,1,"iOS, Android, React Native",Poor,Low,4,Poor,34,Poor,Poor,No,Needs Improvement
+882,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,78,Good,Good,No,Meets Expectations
+883,PhD,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,5,Poor,7,Poor,Poor,No,Needs Improvement
+884,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,9,Good,81,Excellent,Excellent,Yes,Exceeds Expectations
+885,Bachelor's,Mobile,8,"iOS, Android, React Native, Flutter",Excellent,High,10,Excellent,73,Excellent,Excellent,Yes,Exceeds Expectations
+886,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Low,4,Poor,29,Poor,Poor,No,Needs Improvement
+887,PhD,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,62,Good,Good,Yes,Meets Expectations
+888,Master's,.Net,2,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework",Good,High,4,Poor,23,Poor,Poor,No,Needs Improvement
+889,Bachelor's,Mobile,4,"iOS, Android, React Native, Flutter",Excellent,Low,10,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+890,Master's,DevOps,9,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,9,Excellent,75,Excellent,Good,Yes,Exceeds Expectations
+891,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,4,Good,78,Good,Excellent,No,Meets Expectations
+892,Master's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,Low,5,Excellent,69,Excellent,Good,Yes,Meets Expectations
+893,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,9,Excellent,70,Excellent,Good,Yes,Exceeds Expectations
+894,Bachelor's,.Net,8,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,10,Excellent,80,Good,Excellent,Yes,Exceeds Expectations
+895,PhD,Mobile,10,"iOS, Android, React Native, Flutter",Excellent,Medium,9,Excellent,73,Excellent,Good,Yes,Exceeds Expectations
+896,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,3,Poor,13,Poor,Poor,No,Needs Improvement
+897,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Excellent,High,7,Good,63,Good,Good,Yes,Meets Expectations
+898,PhD,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,6,Good,63,Good,Good,No,Meets Expectations
+899,Bachelor's,Mobile,3,"iOS, Android, React Native, Flutter",Good,Medium,6,Good,81,Good,Good,Yes,Meets Expectations
+900,Bachelor's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, Data Mining",Good,Low,2,Poor,26,Poor,Poor,No,Needs Improvement
+901,Bachelor's,Frontend,5,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,High,10,Excellent,89,Excellent,Good,Yes,Exceeds Expectations
+902,PhD,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,8,Good,50,Poor,Excellent,Yes,Meets Expectations
+903,Master's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Excellent,High,5,Poor,37,Poor,Poor,No,Needs Improvement
+904,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,5,Poor,15,Poor,Poor,No,Needs Improvement
+905,Bachelor's,Mobile,2,"iOS, Android, React Native, Flutter",Excellent,Low,5,Poor,25,Poor,Poor,No,Needs Improvement
+906,PhD,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Excellent,Low,9,Good,39,Poor,Excellent,Yes,Meets Expectations
+907,Master's,Mobile,2,"iOS, Android, React Native",Excellent,Medium,8,Excellent,97,Excellent,Good,Yes,Exceeds Expectations
+908,PhD,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,4,Poor,37,Poor,Poor,No,Needs Improvement
+909,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,8,Poor,78,Good,Good,No,Meets Expectations
+910,Master's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,6,Good,79,Poor,Good,Yes,Meets Expectations
+911,Master's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Medium,3,Poor,14,Poor,Poor,No,Needs Improvement
+912,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,Medium,7,Good,44,Good,Good,Yes,Meets Expectations
+913,Bachelor's,.Net,3,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,8,Good,33,Good,Good,Yes,Meets Expectations
+914,Bachelor's,Python & ML,2,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django",Poor,Medium,0,Poor,30,Poor,Poor,No,Needs Improvement
+915,Master's,Mobile,2,"iOS, Android, React Native",Excellent,High,9,Excellent,96,Good,Excellent,Yes,Exceeds Expectations
+916,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,7,Excellent,90,Excellent,Good,Yes,Exceeds Expectations
+917,Master's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,5,Good,76,Excellent,Good,No,Meets Expectations
+918,PhD,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Medium,9,Excellent,95,Excellent,Good,Yes,Exceeds Expectations
+919,Bachelor's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,9,Excellent,89,Good,Excellent,Yes,Exceeds Expectations
+920,PhD,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,High,5,Good,70,Good,Excellent,Yes,Meets Expectations
+921,Bachelor's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,10,Excellent,70,Excellent,Excellent,Yes,Exceeds Expectations
+922,PhD,Database,6,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,5,Excellent,50,Excellent,Good,Yes,Meets Expectations
+923,PhD,Mobile,9,"iOS, Android, React Native, Flutter",Good,High,8,Excellent,90,Excellent,Good,Yes,Exceeds Expectations
+924,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,9,Good,67,Good,Good,No,Meets Expectations
+925,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,2,Poor,8,Poor,Poor,No,Needs Improvement
+926,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,8,Excellent,94,Excellent,Good,Yes,Exceeds Expectations
+927,Bachelor's,Frontend,1,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,Low,0,Poor,36,Poor,Poor,No,Needs Improvement
+928,Bachelor's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Medium,4,Good,59,Good,Good,Yes,Meets Expectations
+929,Master's,Mobile,7,"iOS, Android, React Native, Flutter",Good,High,9,Excellent,79,Excellent,Good,Yes,Exceeds Expectations
+930,Bachelor's,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,9,Excellent,71,Good,Excellent,Yes,Exceeds Expectations
+931,Bachelor's,DevOps,2,"Jenkins, Git, Ansible,Automation, Cloud management",Good,Low,3,Poor,11,Poor,Poor,No,Needs Improvement
+932,Bachelor's,Frontend,1," Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,High,6,Good,40,Good,Good,Yes,Meets Expectations
+933,PhD,Mobile,9,"iOS, Android, React Native, Flutter",Good,Medium,7,Good,85,Good,Good,Yes,Meets Expectations
+934,Master's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,8,Excellent,78,Excellent,Excellent,Yes,Exceeds Expectations
+935,Bachelor's,Python & ML,6,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,High,7,Good,58,Good,Good,Yes,Meets Expectations
+936,Master's,Frontend,3,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Low,1,Poor,24,Poor,Poor,No,Needs Improvement
+937,PhD,Mobile,10,"iOS, Android, React Native, Flutter",Good,Medium,6,Excellent,54,Excellent,Excellent,Yes,Meets Expectations
+938,PhD,Mobile,7,"iOS, Android, React Native, Flutter",Good,High,10,Excellent,97,Excellent,Good,Yes,Exceeds Expectations
+939,Bachelor's,Mobile,4,"iOS, Android, React Native",Good,Medium,3,Poor,32,Poor,Poor,No,Needs Improvement
+940,Master's,Frontend,4,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,6,Good,62,Good,Excellent,Yes,Meets Expectations
+941,Master's,Database,1,"SSRS, MSSQL, MySQL, Oracle, MongoDB, BigData, SSIS, Data Warehouse, Data Mining",Good,Low,1,Poor,32,Poor,Poor,No,Needs Improvement
+942,PhD,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,8,Excellent,91,Excellent,Excellent,Yes,Exceeds Expectations
+943,Master's,Frontend,3,"Angular JS, HTML, CSS, Bootstrap, Java Script",Good,High,5,Excellent,46,Excellent,Good,Yes,Meets Expectations
+944,Bachelor's,Python & ML,4,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Poor,Medium,0,Poor,15,Poor,Poor,No,Needs Improvement
+945,Bachelor's,Database,4,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS",Good,Low,4,Poor,35,Poor,Poor,No,Needs Improvement
+946,Bachelor's,Frontend,2,"Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,7,Excellent,83,Excellent,Excellent,Yes,Exceeds Expectations
+947,Master's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,8,Excellent,93,Excellent,Good,Yes,Exceeds Expectations
+948,PhD,Mobile,0,"iOS, Android, Flutter",Good,Low,3,Poor,17,Poor,Poor,No,Needs Improvement
+949,Bachelor's,Database,9,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Good,67,Good,Excellent,Yes,Meets Expectations
+950,PhD,Database,7,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Medium,6,Good,89,Good,Good,Yes,Meets Expectations
+951,Master's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ",Good,High,3,Poor,34,Poor,Poor,No,Needs Improvement
+952,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Low,2,Poor,30,Poor,Poor,No,Needs Improvement
+953,Bachelor's,Database,3,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Poor,Medium,4,Poor,11,Poor,Poor,No,Needs Improvement
+954,Bachelor's,Python & ML,8,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Good,73,Good,Good,Yes,Meets Expectations
+955,Bachelor's,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,9,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+956,PhD,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Good,65,Good,Good,Yes,Meets Expectations
+957,PhD,Mobile,1,"iOS, Android, React Native, Flutter",Poor,Low,1,Poor,23,Poor,Poor,No,Needs Improvement
+958,Master's,DevOps,4,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Low,0,Poor,31,Poor,Poor,No,Needs Improvement
+959,PhD,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,4,Good,80,Good,Excellent,Yes,Meets Expectations
+960,Bachelor's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,8,Excellent,83,Excellent,Excellent,Yes,Exceeds Expectations
+961,Bachelor's,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,7,Good,58,Good,Excellent,Yes,Meets Expectations
+962,Master's,DevOps,3,"Jenkins, Git, Ansible, Security, Automation",Poor,Medium,0,Poor,31,Poor,Poor,No,Needs Improvement
+963,PhD,DevOps,2,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Poor,Low,4,Poor,30,Poor,Poor,No,Needs Improvement
+964,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Poor,Medium,4,Poor,23,Poor,Poor,No,Needs Improvement
+965,Master's,Mobile,2,"iOS, Android, Flutter",Excellent,Low,8,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+966,Bachelor's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Low,3,Poor,29,Poor,Poor,No,Needs Improvement
+967,Bachelor's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Entity Framework, MVC",Good,High,1,Poor,23,Poor,Poor,No,Needs Improvement
+968,PhD,.Net,1,"C#, .Net Core Framework, ASP.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,5,Poor,34,Poor,Poor,No,Needs Improvement
+969,Bachelor's,Python & ML,3,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Excellent,Low,5,Good,58,Good,Good,Yes,Meets Expectations
+970,Bachelor's,DevOps,3,"Jenkins, Git, Ansible, Security,Cloud management",Good,low,4,Poor,19,Poor,Poor,No,Needs Improvement
+971,Bachelor's,Frontend,7,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,8,Excellent,80,Excellent,Excellent,Yes,Exceeds Expectations
+972,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse",Excellent,Low,2,Poor,34,Poor,Poor,No,Needs Improvement
+973,Bachelor's,.Net,6,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,High,7,Excellent,96,Excellent,Good,Yes,Exceeds Expectations
+974,Master's,Mobile,9,"iOS, Android, React Native, Flutter",Excellent,High,10,Good,70,Good,Excellent,Yes,Exceeds Expectations
+975,Master's,Frontend,8,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Excellent,Low,7,Excellent,98,Excellent,Good,Yes,Exceeds Expectations
+976,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Medium,8,Good,85,Good,Good,Yes,Meets Expectations
+977,Bachelor's,Python & ML,1,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql",Good,Low,4,Poor,24,Good,Poor,No,Needs Improvement
+978,PhD,.Net,7,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,Low,7,Good,85,Good,Excellent,Yes,Meets Expectations
+979,PhD,DevOps,5,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,Medium,9,Excellent,89,Excellent,Excellent,Yes,Exceeds Expectations
+980,PhD,Database,5,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,Low,9,Excellent,96,Excellent,Good,Yes,Exceeds Expectations
+981,Bachelor's,.Net,5,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Good,High,10,Excellent,100,Good,Excellent,Yes,Exceeds Expectations
+982,Master's,.Net,9,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Medium,8,Good,43,Good,Good,Yes,Meets Expectations
+983,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,Data Warehouse, Data Mining",Good,Medium,9,Good,68,Good,Excellent,Yes,Meets Expectations
+984,PhD,DevOps,7,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Excellent,95,Excellent,Good,Yes,Exceeds Expectations
+985,Master's,.Net,4,"C#, .Net Core Framework, ASP.Net, ADO.Net, Visual Basic .Net, LinQ, Entity Framework, MVC",Excellent,Low,7,Excellent,74,Excellent,Excellent,Yes,Exceeds Expectations
+986,PhD,Python & ML,9,"Python,ML models, DL models, TensorFlow, Pytorch, MSSQL, Postgresql, Django, Flask",Good,High,8,Good,77,Poor,Excellent,Yes,Meets Expectations
+987,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,High,4,Poor,22,Poor,Poor,No,Needs Improvement
+988,Master's,Database,5,"SSRS, MSSQL, MySQL, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Good,Medium,4,Good,82,Good,Good,Yes,Meets Expectations
+989,PhD,DevOps,6,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Medium,10,Good,81,Excellent,Excellent,Yes,Exceeds Expectations
+990,PhD,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Low,5,Poor,33,Poor,Poor,No,Needs Improvement
+991,Bachelor's,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,Low,8,Excellent,78,Excellent,Excellent,Yes,Exceeds Expectations
+992,Master's,Mobile,1,"iOS, Android, React Native, Flutter",Good,Low,5,Good,45,Good,Good,Yes,Meets Expectations
+993,Master's,Database,8,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI, BigData, SSIS, Data Warehouse, Data Mining",Excellent,High,8,Excellent,63,Excellent,Good,Yes,Exceeds Expectations
+994,Bachelor's,DevOps,0,"Jenkins, Git, Ansible, Security, Automation",Poor,Low,4,Poor,24,Good,Poor,No,Needs Improvement
+995,PhD,DevOps,8,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Excellent,High,7,Excellent,79,Excellent,Excellent,Yes,Exceeds Expectations
+996,Master's,Database,2,"SSRS, MSSQL, MySQL, Oracle, MongoDB, Data Modelling, PowerBI,Data Warehouse, Data Mining",Good,Medium,6,Good,51,Good,Good,Yes,Meets Expectations
+997,Master's,Mobile,4,"iOS, Android, React Native, Flutter",Good,Low,7,Good,61,Good,Excellent,Yes,Meets Expectations
+998,PhD,DevOps,10,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,8,Excellent,87,Excellent,Good,Yes,Exceeds Expectations
+999,Master's,Frontend,1,"Angular JS, Node JS, HTML, CSS, Bootstrap, Java Script",Good,Medium,1,Poor,22,Poor,Poor,No,Needs Improvement
+1000,PhD,DevOps,3,"Jenkins, Git, Ansible, Security, Automation, Cloud management",Good,High,9,Good,78,Good,Excellent,Yes,Meets Expectations

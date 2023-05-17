@@ -1,0 +1,63 @@
+{% extends './Components/_layout.html' %}
+
+{% block body %}
+    <p class="bar fs-5"><b>Employee Information</b></p>
+    <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+        <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" style="width: 0%">0%</div>
+    </div>
+        
+    <form class="h-100 pt-2 d-flex flex-column justify-content-between overflow-hidden" method="post"  action="{{url_for("employee_info")}}">
+        <div class="h-100 w-100" style="overflow-x:hidden;overflow-y:auto;">
+            <div class="pt-3 form-group">
+                <label for="employee-id">Employee ID</label>
+                <input type="number" class="form-control" id="employee-id" name="employee-id" value={{data.get('employee-id')}}>
+            </div>
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <div class="form-group mt-2">
+                        <label for="employee-first-name">First Name</label>
+                        <input type="text" class="form-control" id="employee-first-name" name="employee-first-name" value={{data.get('employee-first-name')}}>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group mt-2">
+                        <label for="employee-last-name">Last Name</label>
+                        <input type="text" class="form-control" id="employee-last-name" name="employee-last-name" value={{data.get('employee-last-name')}}>
+                    </div>
+                </div>
+            </div>
+            <p class="pt-3 bar fs-7"><b>Experience</b></p>
+            <div class="row g-3">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="employee-job-tenure">Job Tenure</label>
+                        <input type="number" class="form-control" id="employee-job-tenure" name="employee-job-tenure" value={{data.get('employee-job-tenure')}} placeholder="Enter Employee ID">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="employee-education-level">Education Level</label>
+                        <select id="employee-education-level" name="employee-education-level" class="form-control">
+                            <option {% if data.get('employee-education-level') == "Bachelors" %} selected {% endif %}>Bachelors</option>
+                            <option {% if data.get('employee-education-level') == "Masters" %} selected {% endif %}>Masters</option>
+                            <option {% if data.get('employee-education-level') == "PhD" %} selected {% endif %}>PhD</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group col-md-4 mt-2 w-100">
+                <label for="employee-department">Department</label>
+                <select id="employee-department" name="employee-department" class="form-control">
+                    {% for department in department_skills%}
+                    <option>{{department}}</option>
+                    {% endfor %}
+                </select>
+            </div>
+        </div>
+        <div class="row g-3">
+            <div class="col-md-3">
+                <button type="submit" class="btn btn-primary w-100">Next</button>
+            </div>
+        </div>
+    </form>
+{% endblock %}
