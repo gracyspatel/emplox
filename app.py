@@ -110,7 +110,7 @@ if __name__ == "__main__":
 	app.add_url_rule('/performance',view_func=webapp.employee_performance,methods=['GET'])
 
 	# app run port = 8000
-	app.run()
+	app.run(port=8000,debug=True)
 
 print("GRACY PATEL")
 # End of File
