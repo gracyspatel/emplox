@@ -35,11 +35,8 @@ class ModelTraining:
         self.x_train,self.x_test,self.y_train,self.y_test = train_test_split(self.features,
 																			 self.target,
 																			 test_size=0.30)
-
-        self.x_train = self.x_train.tolist()
-        self.x_train = np.array(self.x_train)
-        self.x_test = self.x_test.tolist()
-        self.x_test = np.array(self.x_test)
+        self.x_train = np.array(self.x_train.tolist())
+        self.x_test = np.array(self.x_test.tolist())
 
         # applying SMOTE
         smote_obj = SMOTE()
@@ -57,13 +54,7 @@ class ModelTraining:
     def model_train(self):
         print('\nTraining Model................')
         self.model = RandomForestClassifier(criterion='gini',max_depth=10,max_features=12)
-        # forest_params = [{'max_depth': list(range(10, 15)), 'max_features': list(range(0,14))}]
-        # clf = GridSearchCV(self.model, forest_params, cv = 10, scoring='accuracy')
-        # print(clf)
-        # clf.fit(X=self.x_train,y=self.y_train)
         self.model.fit(X=self.x_train,y=self.y_train)
-        # print(clf.best_score_)
-        # print(clf.best_params_)
 
     # predicting the value of xtest
     def predicting_xtest(self):
@@ -72,12 +63,9 @@ class ModelTraining:
 
     # getting performance metrix
     def performance(self,predicted):
-        accuracyScore = accuracy_score(y_pred=predicted,y_true=self.y_test)
-        print("\nAccuracy Score : ",accuracyScore*100)
-        print("\nConfusion Matrix : ")
-        print(confusion_matrix(y_pred=predicted, y_true=self.y_test))
-        print("\nClassification Report : ")
-        print(classification_report(y_pred=predicted,y_true=self.y_test))
+        print("\nAccuracy Score : ",accuracy_score(y_pred=predicted,y_true=self.y_test)*100)
+        print("\nConfusion Matrix : \n",confusion_matrix(y_pred=predicted, y_true=self.y_test))
+        print("\nClassification Report : \n",classification_report(y_pred=predicted,y_true=self.y_test))
 
     # generating pickle file
     def generating_pickle(self):

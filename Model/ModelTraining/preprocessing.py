@@ -61,9 +61,6 @@ class Preprocessing:
                 random_data['Technical Skills'] = self.encoders[key].transform([random_data[
                                                                                    'Technical Skills']]).toarray()
                 random_data['Technical Skills']  = list(random_data['Technical Skills'].sum(axis=0))
-
-        # print(self.encoders)
-        # print(random_data['Technical Skills'])
         new_data = [random_data['Education Level'],random_data['Department'],random_data[
             'employee-job-tenure']]
         new_data.extend(random_data['Technical Skills'])
@@ -71,7 +68,6 @@ class Preprocessing:
             'employee-peer-feedback'],random_data['employee-code-quality'],random_data[
             'employee-project-completion-rate'],random_data['employee-debugging-skills'],
                          random_data['employee-time-management'],random_data['Learning_Growth']])
-
         return new_data
 
     def new_prediction(self,data_to_predict,filepath):
@@ -106,8 +102,7 @@ class Preprocessing:
 
     # bag of words approach
     def bow_encoding(self,words_list1):
-        # Applying Count Vectorize
-        # (Bag of Words)
+        # Applying Count Vectorize (Bag of Words)
         dictionary_Words_bow = CountVectorizer(encoding=None,lowercase=False,decode_error=None,stop_words=None,tokenizer=None)
         dictionary_Words_bow.fit(self.tech_words)
         self.encoders['skills'] = dictionary_Words_bow
@@ -117,7 +112,6 @@ class Preprocessing:
 
     # cleaning the datasets
     def data_cleaning(self,data):
-
         self.data = data
 
         # dropping Employee ID column
@@ -145,10 +139,9 @@ class Preprocessing:
                 self.tech_dict[department].update(skills)
             self.tech_dict[department] = set(skills)
 
-        # print(self.tech_dict)
         self.encoders['department_skills'] = self.tech_dict
-        # Encoding Feature column
 
+        # Encoding Feature column
         self.encoding(column_list=['Education Level','Department','Workload','Learning_Growth','Performance'])
 
         # Encoding other columns
@@ -158,8 +151,6 @@ class Preprocessing:
         self.data['Technical Skills'].map(lambda sent:self.wordsList(sent))
         self.data['Technical Skills'] = self.data['Technical Skills'].apply(lambda sent:
                                                                           self.bow_encoding(word_tok(sent)))
-        # print(self.encoders)
-
         # creating a pickle object
         pkl_file = open(".\Pickle\cleaning.pkl","wb")
         pickle.dump(self.encoders,pkl_file)
