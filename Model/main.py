@@ -13,8 +13,6 @@ class Main:
         self.preprocessObj = Preprocessing()
         self.data = self.preprocessObj.read_data()
         self.edaObj = DataEDA(self.data)
-        self.modelTrainingObj = None
-        self.encoders = {}
 
     def test_new_data(self):
         # Entering input values
@@ -55,17 +53,17 @@ class Main:
     def main(self):
 
         # data information
-        # self.edaObj.data_information()
+        self.edaObj.data_information()
 
         # visualizations
-        # self.edaObj.visualization()
+        self.edaObj.visualization()
 
         # data cleaning
         self.data = self.preprocessObj.data_cleaning(data = self.data)
 
         # model training object
-        self.modelTrainingObj = ModelTraining(data = self.data)
-        self.modelTrainingObj.model_training()
+        training = ModelTraining(data = self.data)
+        training.model_training()
         # self.test_new_data()
 
 # main
