@@ -2,6 +2,9 @@
 # EMPLOYEE PERFORMANCE PREDICTION
 
 # Importing Dependencies
+import json
+import pickle
+import random
 from flask import Flask,render_template,request,redirect
 # importing method
 from Model.ModelTraining.preprocessing import Preprocessing
@@ -11,8 +14,9 @@ class WebApp:
 
 	# class ctor
 	def __init__(self):
-		self.result = None
 		self.prediction = None
+		self.quote, self.author = None, None
+		self.quoteDict = None
 		self.data = {'employee-id':0,'employee-first-name':'','employee-last-name':'',
 					 'employee-job-tenure':0,'Education Level':'',
 					 'Department':'','Technical Skills':'','employee-code-quality':'',
@@ -20,13 +24,26 @@ class WebApp:
 					 'employee-time-management':'','Workload':'',
 					 'employee-peer-feedback':0,'employee-project-completion-rate':0,
 					 'Learning_Growth':''}
-		self.loading = True
-		self.encoders = {}
-		self.model = None
 		self.preprocessing = Preprocessing()
-		self.department_skills = {'Database': {'Data Modelling', 'PowerBI', 'Data Mining', 'SSRS', 'Oracle', 'MongoDB', 'MSSQL', 'Data Warehouse', 'MySQL'}, 'Frontend': {'CSS', 'Angular JS', 'Bootstrap', 'Node JS', 'Java Script', 'HTML'}, 'DevOps': {'Security', 'Cloud management', 'Automation', 'Jenkins', 'Ansible', 'Git'}, '.Net': {'C#', 'MVC', 'ASP.Net', 'LinQ', 'Visual Basic .Net', 'Entity Framework', 'ADO.Net', '.Net Core Framework'}, 'Mobile': {'iOS', 'Android', 'React Native', 'Flutter'}, 'Python & ML': {'Pytorch', 'TensorFlow', 'ML models', 'Django', 'Flask', 'DL models', 'Postgresql', 'MSSQL', 'Python'}}
+		self.department_skills = self.preprocessing.get_department_skills(filepath="./Model/Pickle/cleaning.pkl")
 
-	# home employee_info method
+	# predict method
+	def predict_result(self):
+		# pre-processing user input values
+		cleaned_data = self.preprocessing.input_data_cleaning(dict(
+			self.data))
+		# making prediction
+		result = self.preprocessing.new_prediction(cleaned_data,filepath="./Model/Pickle/model.pkl")[0]
+		self.prediction = "Exceeds Expectations" if result == 0 else "Meets Expectations" if result == 1 else "Needs Improvement"
+
+		# loading quotes json  file
+		with open("Model/Data/quote.json") as quotes:
+			self.quoteDict = json.load(quotes)
+		random_No = random.randint(0,2)
+		self.quote = self.quoteDict[self.prediction][random_No]['quote']
+		self.author = self.quoteDict[self.prediction][random_No]['author']
+
+	# employee_info method
 	def employee_info(self):
 		if request.method == 'POST':
 			self.data['employee-id'] = int(request.form.get('employee-id'))
@@ -36,9 +53,9 @@ class WebApp:
 			self.data['Education Level'] = request.form.get('employee-education-level')
 			self.data['Department'] = request.form.get('employee-department')
 			return redirect('/skills')
-		return render_template('page1.html',data=self.data, department_skills=self.department_skills)
+		return render_template('employee_information.html',data=self.data, department_skills=self.department_skills)
 
-	# home employee_skills method
+	# employee_skills method
 	def employee_skills(self):
 		if request.method == "POST":
 			if request.form.get('action1') == 'VALUE1':
@@ -46,9 +63,9 @@ class WebApp:
 			skills = request.form.getlist('Technical Skills')
 			self.data['Technical Skills'] = ', '.join(skills)
 			return redirect('/ratings')
-		return render_template('page2.html',data=self.data, department_skills=self.department_skills)
+		return render_template('employee_skills.html',data=self.data, department_skills=self.department_skills)
 
-	# home employee_ratings method
+	# employee_ratings method
 	def employee_ratings(self):
 		if request.method == "POST":
 			if request.form.get('action1') == 'VALUE1':
@@ -60,9 +77,9 @@ class WebApp:
 			self.data['Workload'] = request.form.get('workload')
 
 			return redirect('/project')
-		return render_template('page3.html',data=self.data)
+		return render_template('employee_ratings.html',data=self.data)
 
-	# home employee_project method
+	# employee_project method
 	def employee_project(self):
 		if request.method == "POST":
 			if request.form.get('action1') == 'VALUE1':
@@ -71,29 +88,15 @@ class WebApp:
 			self.data['employee-project-completion-rate']=int(request.form.get(
 				'project-completion-rate'))*10
 			self.data['Learning_Growth'] = request.form.get('learning-growth')
-
-			cleaned_data = self.preprocessing.input_data_cleaning(dict(self.data),
-																  filepath="./Model/Pickle/cleaning.pkl")
-
-			self.result = self.preprocessing.new_prediction(cleaned_data,
-															filepath="./Model/Pickle/model.pkl")[0]
-			if self.result == 0:
-				self.prediction = "Exceeds Expectations"
-			elif self.result == 1:
-				self.prediction = "Meets Expectations"
-			else:
-				self.prediction = "Needs Improvement"
-
-			self.loading = False
+			self.predict_result()
 
 			return redirect('/performance')
-		return render_template('page4.html',data=self.data)
+		return render_template('employee_project.html',data=self.data)
 
 	# performance method
 	def employee_performance(self):
-		return render_template('performance.html',data=self.data,loading=self.loading,
-							   result=self.result,prediction=self.prediction)
-
+		return render_template('performance.html',data=self.data,prediction=self.prediction,
+							   quote=self.quote, author = self.author)
 # main start
 if __name__ == "__main__":
 	# app object
@@ -111,6 +114,3 @@ if __name__ == "__main__":
 
 	# app run port = 8000
 	app.run(port=8000,debug=True)
-
-print("GRACY PATEL")
-# End of File

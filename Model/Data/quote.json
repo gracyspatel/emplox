@@ -1,0 +1,60 @@
+{
+	"Exceeds Expectations": [
+		{
+        "quote" : "Pleasure in the job puts perfection in the work.",
+        "author" : "Aristotle"
+      },
+      {
+        "quote" : "The greatest achievement is to outperform yourself.",
+        "author" : "Denis Waitley"
+      },
+	  {
+		  "quote" : "Exceeding expectations is where satisfaction ends and loyalty begins.",
+		  "author": "Ron Kaufman"
+	  },
+	  {
+		  "quote" : "There is no straighter road to success than exceeding expectations one day at a time.",
+		  "author": "Robin Crow"
+	  },
+	  {
+		  "quote" : "Snowfall is expected to considerably exceed the normal range, both in frequency and quantity.",
+		  "author": "Mark Oliver"
+	  }
+	],
+	"Meets Expectations": [
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		},
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		},
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		},
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		}
+	],
+	"Needs Improvement": [
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		},
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		},
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		},
+		{
+			"quote" : "Good Going Keep it up!",
+			"author" :"Deep"
+		}
+	]
+}

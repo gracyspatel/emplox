@@ -1,0 +1,43 @@
+*{
+            padding:0;
+            margin:0;
+            box-sizing: border-box;
+        }
+        html,body{
+            height:100%;
+            width:100%;
+            overflow-y:hidden;
+        }
+        .bar::before
+        {
+            content: '| ';
+            color: rgb(0, 0, 255);
+            font-size: larger;
+            font-weight:900;
+        }
+        .text-color
+        {
+            color: rgb(0, 0, 255);
+        }
+        .bg-new{
+            background-color: #eee1ff;
+        }
+        .image{
+            max-width:300px;
+        }
+        .bg-colors{
+            background: #003973;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(to top, #003973,#E5E5BE,#fff);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(to top, #003973,#E5E5BE,#fff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        }
+        @media only screen and (max-width: 768px) {
+            .div1{
+                display:none;
+            } .user-name {
+                flex-wrap:wrap;
+            }
+            .user-name div{
+                width:100%;
+            }
+          }

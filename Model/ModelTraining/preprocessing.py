@@ -36,12 +36,17 @@ class Preprocessing:
         for column in column_list:
             self.data[column] = self.data[column].replace(value,to_value)
 
-    # input data cleaning
-    def input_data_cleaning(self,random_data,filepath):
+    # getting department skills
+    def get_department_skills(self,filepath):
         # getting encoders
         file = open(filepath, 'rb')
         self.encoders = pickle.load(file)
         file.close()
+
+        return self.encoders['department_skills']
+
+    # input data cleaning
+    def input_data_cleaning(self,random_data):
 
         # encoding values
         for key in self.encoders:
@@ -57,8 +62,8 @@ class Preprocessing:
                                                                                    'Technical Skills']]).toarray()
                 random_data['Technical Skills']  = list(random_data['Technical Skills'].sum(axis=0))
 
-        print(self.encoders)
-        print(random_data['Technical Skills'])
+        # print(self.encoders)
+        # print(random_data['Technical Skills'])
         new_data = [random_data['Education Level'],random_data['Department'],random_data[
             'employee-job-tenure']]
         new_data.extend(random_data['Technical Skills'])
@@ -140,8 +145,10 @@ class Preprocessing:
                 self.tech_dict[department].update(skills)
             self.tech_dict[department] = set(skills)
 
-        print(self.tech_dict)
+        # print(self.tech_dict)
+        self.encoders['department_skills'] = self.tech_dict
         # Encoding Feature column
+
         self.encoding(column_list=['Education Level','Department','Workload','Learning_Growth','Performance'])
 
         # Encoding other columns

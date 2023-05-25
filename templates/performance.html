@@ -1,10 +1,10 @@
 {% extends './Components/_layout.html' %}
 
 {% block body %}
-    <p class="navbar-brand bar fs-5" href="#"><b>Employee Performance Prediction</span></b></p>
+    <p class="bar fs-5" href="#"><b>Employee Performance Prediction</b></p>
     <div class="h-100 w-100" style="overflow-x:hidden;overflow-y:auto;">
     {% if loading: %}
-    <p>Loading......</p>
+        <p>Loading......</p>
     {% else: %}
     <p class="text-justify">From all the factors that were mentioned above the predicted performance of the {{data.get('employee-first-name')}}  {{data.get('employee-last-name')}} from the department {{data.get('Department')}} is predicted:</p>
     <div class="mt-4">
@@ -38,8 +38,17 @@
             <tr>
               <td colspan="2"><b>Performance</b></td>
               <td><b>{% if prediction %}
-              {{prediction}}
+              <span>{{prediction}}</span>
               {% endif%}</b></td>
+            </tr>
+            <tr>
+              <td colspan="3" class="text-center">
+                <i>
+                {% if quote %}
+                    <q>{{quote}}</q> - {{author}}
+                {% endif %}
+                </i>
+              </td>
             </tr>
           </tbody>
         </table>

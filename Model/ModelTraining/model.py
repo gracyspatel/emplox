@@ -6,7 +6,7 @@ import pickle
 import pandas as pd
 import numpy as np
 from imblearn.over_sampling import SMOTE
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split,GridSearchCV
 from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
@@ -48,16 +48,22 @@ class ModelTraining:
     # training different set of models
     def all_model(self):
         for model in self.models_list:
-            print("\n\nModel : ",model)
+            print("\nModel : ",model)
             model.fit(X=self.x_train,y=self.y_train)
             model_predict = model.predict(self.x_test)
             self.performance(predicted=model_predict)
 
     # training the model
     def model_train(self):
-        print('Training Model................')
-        self.model = RandomForestClassifier()
+        print('\nTraining Model................')
+        self.model = RandomForestClassifier(criterion='gini',max_depth=10,max_features=12)
+        # forest_params = [{'max_depth': list(range(10, 15)), 'max_features': list(range(0,14))}]
+        # clf = GridSearchCV(self.model, forest_params, cv = 10, scoring='accuracy')
+        # print(clf)
+        # clf.fit(X=self.x_train,y=self.y_train)
         self.model.fit(X=self.x_train,y=self.y_train)
+        # print(clf.best_score_)
+        # print(clf.best_params_)
 
     # predicting the value of xtest
     def predicting_xtest(self):
@@ -67,20 +73,20 @@ class ModelTraining:
     # getting performance metrix
     def performance(self,predicted):
         accuracyScore = accuracy_score(y_pred=predicted,y_true=self.y_test)
-        print("Accuracy Score : ",accuracyScore)
-        print("Confusion Matrix : ")
+        print("\nAccuracy Score : ",accuracyScore*100)
+        print("\nConfusion Matrix : ")
         print(confusion_matrix(y_pred=predicted, y_true=self.y_test))
-        print("Classification Report : ")
+        print("\nClassification Report : ")
         print(classification_report(y_pred=predicted,y_true=self.y_test))
 
     # generating pickle file
     def generating_pickle(self):
-        print("GENERATING MODEL ......")
+        print("\nGENERATING MODEL ......")
         # creating a pickle object
         pkl_file = open(".\Pickle\model.pkl","wb")
         pickle.dump(self.model,pkl_file)
         pkl_file.close()
-        print("MODEL GENERATED READY TO USE [Pickle file created]\n")
+        print("\nMODEL GENERATED READY TO USE [Pickle file created]\n")
 
     def model_training(self):
         # splitting data
