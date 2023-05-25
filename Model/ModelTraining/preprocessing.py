@@ -61,6 +61,7 @@ class Preprocessing:
                 random_data['Technical Skills'] = self.encoders[key].transform([random_data[
                                                                                    'Technical Skills']]).toarray()
                 random_data['Technical Skills']  = list(random_data['Technical Skills'].sum(axis=0))
+
         new_data = [random_data['Education Level'],random_data['Department'],random_data[
             'employee-job-tenure']]
         new_data.extend(random_data['Technical Skills'])
@@ -161,8 +162,7 @@ class Preprocessing:
 
         # appending other columns to Technical Skills
         for index,row in self.data.iterrows():
-            row['Employee Data'].extend([row["Department"],
-                                            row["Job Tenure"]])
+            row['Employee Data'].extend([row["Department"],row["Job Tenure"]])
             row['Employee Data'].extend(row["Technical Skills"])
             row['Employee Data'].extend([row["Quality_of_Work"],
                                             row["Workload"],row["Peer_Feedback"],

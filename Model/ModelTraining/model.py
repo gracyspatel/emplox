@@ -81,7 +81,7 @@ class ModelTraining:
         self.data_splitting()
 
         # for all the models
-        # self.all_model()
+        self.all_model()
 
         # model train
         self.model_train()
