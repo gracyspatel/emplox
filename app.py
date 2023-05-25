@@ -30,8 +30,7 @@ class WebApp:
 	# predict method
 	def predict_result(self):
 		# pre-processing user input values
-		cleaned_data = self.preprocessing.input_data_cleaning(dict(
-			self.data))
+		cleaned_data = self.preprocessing.input_data_cleaning(dict(self.data))
 		# making prediction
 		result = self.preprocessing.new_prediction(cleaned_data,filepath="./Model/Pickle/model.pkl")[0]
 		self.prediction = "Exceeds Expectations" if result == 0 else "Meets Expectations" if result == 1 else "Needs Improvement"
@@ -99,7 +98,7 @@ class WebApp:
 							   quote=self.quote, author = self.author)
 # main start
 if __name__ == "__main__":
-	# app object
+	# class object
 	webapp = WebApp()
 
 	# app object
