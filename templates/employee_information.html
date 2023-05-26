@@ -38,26 +38,28 @@
                     <div class="ms-1 me-1 form-group">
                         <label for="employee-education-level">Education Level</label>
                         <select id="employee-education-level" name="employee-education-level" class="form-control">
-                            <option {% if data.get('employee-education-level') == "Bachelors" %} selected {% endif %}>Bachelors</option>
-                            <option {% if data.get('employee-education-level') == "Masters" %} selected {% endif %}>Masters</option>
-                            <option {% if data.get('employee-education-level') == "PhD" %} selected {% endif %}>PhD</option>
+                            <option value="Bachelors" {% if data.get('Education Level') == "Bachelors" %} selected {% endif %}>Bachelors</option>
+                            <option value="Masters" {% if data.get('Education Level') == "Masters" %} selected {% endif %}>Masters</option>
+                            <option value="PhD" {% if data.get('Education Level') == "PhD" %} selected {% endif %}>PhD</option>
                         </select>
                     </div>
                 </div>
             </div>
-            <div class="ms-1 me-1 form-group col-md-4 mt-2 w-100">
+            <div class="row g-3 p-1">
+                <div class="col-md-12">
                 <label for="employee-department">Department</label>
                 <select id="employee-department" name="employee-department" class="form-control">
                     {% for department in department_skills%}
-                    <option>{{department}}</option>
+                    <option value={{department}} {% if data.get('Department') == department %} selected {% endif %}>{{department}}</option>
                     {% endfor %}
                 </select>
+                </div>
             </div>
         </div>
         <div class="row g-3">
-            <div class="ms-1 me-1 col-md-3">
-                <button type="submit" class="btn btn-primary w-100">Next</button>
-            </div>
+        <div class="col-md-3">
+          <button type="submit" class="btn btn-primary w-100">Next</button>
+        </div>
         </div>
     </form>
 {% endblock %}

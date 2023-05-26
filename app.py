@@ -56,6 +56,7 @@ class WebApp:
 
 	# employee_skills method
 	def employee_skills(self):
+		print(self.data)
 		if request.method == "POST":
 			if request.form.get('action1') == 'VALUE1':
 				return redirect('/')
