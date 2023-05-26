@@ -38,7 +38,7 @@ class WebApp:
 		# loading quotes json  file
 		with open("Model/Data/quote.json") as quotes:
 			self.quoteDict = json.load(quotes)
-		random_No = random.randint(0,2)
+		random_No = random.randint(0,9)
 		self.quote = self.quoteDict[self.prediction][random_No]['quote']
 		self.author = self.quoteDict[self.prediction][random_No]['author']
 

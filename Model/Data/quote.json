@@ -1,60 +1,130 @@
 {
-	"Exceeds Expectations": [
+	"Exceeds Expectations":
+	[
 		{
-        "quote" : "Pleasure in the job puts perfection in the work.",
-        "author" : "Aristotle"
-      },
-      {
-        "quote" : "The greatest achievement is to outperform yourself.",
-        "author" : "Denis Waitley"
-      },
-	  {
-		  "quote" : "Exceeding expectations is where satisfaction ends and loyalty begins.",
-		  "author": "Ron Kaufman"
-	  },
-	  {
-		  "quote" : "There is no straighter road to success than exceeding expectations one day at a time.",
-		  "author": "Robin Crow"
-	  },
-	  {
-		  "quote" : "Snowfall is expected to considerably exceed the normal range, both in frequency and quantity.",
-		  "author": "Mark Oliver"
-	  }
+        	"quote" : "Pleasure in the job puts perfection in the work.",
+        	"author" : "Aristotle"
+     	 },
+		{
+			"quote" : "The greatest achievement is to outperform yourself.",
+			"author" : "Denis Waitley"
+		},
+		{
+			"quote": "Keep exceeding expectations don't let anybody tell you you can't or you're not.",
+			"author": "Someone Wise"
+		},
+		{
+			"quote" : "Exceeding expectations is where satisfaction ends and loyalty begins.",
+			"author": "Ron Kaufman"
+		},
+		{
+			"quote" : "There is no straighter road to success than exceeding expectations one day at a time.",
+			"author": "Robin Crow"
+		},
+		{
+			"quote" : "Snowfall is expected to considerably exceed the normal range, both in frequency and quantity.",
+			"author": "Mark Oliver"
+		},
+		{
+			"quote": "The better you do, the more expectations you raise in the eyes of the people around!!",
+			"author": "Senora Roy"
+		},
+		{
+			"quote": "High achievement always takes the place in the framework of high expectation.",
+			"author": "Charles Kettering"
+		},
+		{
+			"quote": "Shoot for the moon. Even if you miss, you will land among the stars.",
+			"author": "Vincent Peale"
+		},
+		{
+			"quote": "Do more than you have to, be better than whats expected of you. Go beyond the goals you set.",
+			"author": "Darren Hardy"
+		}
 	],
-	"Meets Expectations": [
+	"Meets Expectations":
+	[
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Do what you do so well that they will want to see it again and again and bring their friend.",
+			"author" :"Walt Disney"
 		},
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.",
+			"author" :"Antoine de Saint Exupery"
 		},
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "If you always do what you’ve always done, you’ll always get what you’ve always got.",
+			"author" :"Henry Ford"
 		},
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Strive for continuous improvement, instead of perfection.",
+			"author" :"Kim Collins"
+		},
+		{
+			"quote" : "Meeting Expectations is good but exceeding expectation is great!!",
+			"author" :"Someone Wise"
+		},
+		{
+			"quote" : "Perfection is not attainable. But if we chase perfection, we can catch excellence.",
+			"author" :"Vince Lombardi"
+		},
+		{
+			"quote" : "Do the best you can until you know better. Then when you know better, do better.",
+			"author" :"Maya Angelou"
+		},
+		{
+			"quote" : "The only thing standing between you and outrageous success is continuous progress.",
+			"author" :"Dan Waldschmidt"
+		},
+		{
+			"quote" : "There are no traffic jams on the extra mile.",
+			"author" :"Zig Ziglar"
+		},
+		{
+			"quote" : "All our dreams can come true, if we have the courage to pursue them.",
+			"author" :"Walt Disney"
 		}
 	],
 	"Needs Improvement": [
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Focus on being productive instead of busy.",
+			"author" :"Tim Ferriss"
 		},
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Productivity is being able to do things that you were never able to do before.",
+			"author" :"Franz Kafka"
 		},
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Sometimes, things may not go your way, but the effort should be there every single night.",
+			"author" :"Michael Jordan"
 		},
 		{
-			"quote" : "Good Going Keep it up!",
-			"author" :"Deep"
+			"quote" : "Action is the foundational key to all success. So work on it",
+			"author" :"Piccaso"
+		},
+		{
+			"quote" : "The key is not to prioritize what’s on your schedule, but to schedule your priorities.",
+			"author" :"Stephen Convey"
+		},
+		{
+			"quote" : "Oh yes, the past can hurt. But you can either run from it, or learn from it.",
+			"author" :"Rafiki"
+		},
+		{
+			"quote" : "When we strive to become better than we are, everything around us becomes better too.",
+			"author" :"Paulo Coelho"
+		},
+		{
+			"quote" : " If something is wrong, fix it now. But train yourself not to worry, worry fixes nothing.",
+			"author" :"Ernest Hemingway"
+		},
+		{
+			"quote" : "Sometimes the fall kills you. And sometimes, when you fall, you fly.",
+			"author" :"Neil Gaiman"
+		},
+		{
+			"quote": "The biggest room in the world is the room for improvement.",
+			"author": "Helmut Schmidt"
 		}
 	]
 }
