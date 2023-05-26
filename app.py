@@ -19,7 +19,7 @@ class WebApp:
 		self.quoteDict = None
 		self.data = {'employee-id':0,'employee-first-name':'','employee-last-name':'',
 					 'employee-job-tenure':0,'Education Level':'',
-					 'Department':'','Technical Skills':'','employee-code-quality':'',
+					 'Department':'','Technical Skills':[],'employee-code-quality':'',
 					 'employee-quality-of-work':'','employee-debugging-skills':'',
 					 'employee-time-management':'','Workload':'',
 					 'employee-peer-feedback':0,'employee-project-completion-rate':0,
@@ -59,13 +59,13 @@ class WebApp:
 		if request.method == "POST":
 			if request.form.get('action1') == 'VALUE1':
 				return redirect('/')
-			skills = request.form.getlist('Technical Skills')
-			self.data['Technical Skills'] = ', '.join(skills)
+			self.data['Technical Skills'] = request.form.getlist('Technical Skills')
 			return redirect('/ratings')
 		return render_template('employee_skills.html',data=self.data, department_skills=self.department_skills)
 
 	# employee_ratings method
 	def employee_ratings(self):
+		print(self.data['Technical Skills'])
 		if request.method == "POST":
 			if request.form.get('action1') == 'VALUE1':
 				return redirect('/skills')

@@ -47,7 +47,8 @@ class Preprocessing:
 
     # input data cleaning
     def input_data_cleaning(self,random_data):
-
+        # changing tech skills from list to string
+        random_data['Technical Skills'] = ', '.join(random_data['Technical Skills'])
         # encoding values
         for key in self.encoders:
             for value in random_data:
