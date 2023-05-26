@@ -10,7 +10,7 @@
       <div class="w-100 pb-3 h-100" style="overflow-x:hidden;overflow-y:auto;">
         <p class="pt-3 bar fs-7"><b>Completion Status</b></p>
         <div class="form-group mt-3">
-          <label for="employee_id">Project Completion Rate (in %)</label>
+          <label for="project-completion-rate">Project Completion Rate (in %)</label>
           <input type="range" class="form-range" min="0" max="10" id="project-completion-rate"  name="project-completion-rate" value={{data.get('employee-project-completion-rate')/10}}>
           <div class="d-flex w-100 justify-content-between">
             {% for i in range(0, 11) %}
@@ -20,7 +20,7 @@
         </div>
         <p class="pt-1 bar fs-7" href="#"><b>Other's Feedback</span></b></p>
         <div class="form-group mt-3">
-          <label for="employee_id">Peer Feedback</label>
+          <label for="peer-feedback">Peer Feedback</label>
           <input type="range" class="form-range" min="0" max="10" id="peer-feedback"  name="peer-feedback" value={{data.get('employee-peer-feedback')}}>
           <div class="d-flex w-100 justify-content-between">
             {% for i in range(0, 11) %}
@@ -32,14 +32,14 @@
         <div class="d-flex gap-3">
             <p class="fs-9">Is the Employee Learning?  </p>
             <div class="form-check">
-              <input class="form-check-input" type="radio" value="yes" name="learning-growth" id="learning-growth" {% if data.get('Learning_Growth') == "yes" %} checked {% endif %}>
-              <label class="form-check-label" for="learning-growth">
+              <input class="form-check-input" type="radio" value="yes" name="learning-growth" id="learning-growth-yes" {% if data.get('Learning_Growth') == "yes" %} checked {% endif %}>
+              <label class="form-check-label" for="learning-growth-yes">
                 Yes
               </label>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="radio" value="no" name="learning-growth" id="learning-growth" {% if data.get('Learning_Growth') == "no" %} checked {% endif %}>
-              <label class="form-check-label" for="learning-growth">
+              <input class="form-check-input" type="radio" value="no" name="learning-growth" id="learning-growth-no" {% if data.get('Learning_Growth') == "no" %} checked {% endif %}>
+              <label class="form-check-label" for="learning-growth-no">
                 No
               </label>
             </div>

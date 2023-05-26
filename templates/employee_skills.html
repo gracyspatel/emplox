@@ -12,8 +12,8 @@
                     <div class="p-3 row g-2">
                     {% for skill in department_skills.get(data.get('Department')) %}
                         <div class="col-md-4 col-sm-6 form-check">
-                            <input class="form-check-input" type="checkbox" name="Technical Skills" id="Technical Skills" value={{skill|replace(' ', '')}} {% if skill|replace(' ', '') in data.get('Technical Skills') %} checked {% endif %}>
-                            <label class="form-check-label" for="Technical Skills">
+                            <input class="form-check-input" type="checkbox" name="Technical Skills" id={{skill|replace(' ', '')}} value={{skill|replace(' ', '')}} {% if skill|replace(' ', '') in data.get('Technical Skills') %} checked {% endif %}>
+                            <label class="form-check-label" for={{skill|replace(' ', '')}}>
                                 {{skill}}
                             </label>
                         </div>
