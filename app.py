@@ -56,8 +56,10 @@ class WebApp:
 
 	# employee_skills method
 	def employee_skills(self):
+		if self.data['Department'] == "Python":
+			self.data['Department'] = "Python & ML"
 		if request.method == "POST":
-			if request.form.get('action1') == 'VALUE1':
+			if request.form.get('action1') == 'previous':
 				return redirect('/')
 			self.data['Technical Skills'] = request.form.getlist('Technical Skills')
 			return redirect('/ratings')
@@ -66,7 +68,7 @@ class WebApp:
 	# employee_ratings method
 	def employee_ratings(self):
 		if request.method == "POST":
-			if request.form.get('action1') == 'VALUE1':
+			if request.form.get('action1') == 'previous':
 				return redirect('/skills')
 			self.data['employee-code-quality'] = request.form.get('code-quality')
 			self.data['employee-quality-of-work'] = request.form.get('quality-of-work')
@@ -80,7 +82,7 @@ class WebApp:
 	# employee_project method
 	def employee_project(self):
 		if request.method == "POST":
-			if request.form.get('action1') == 'VALUE1':
+			if request.form.get('action1') == 'previous':
 				return redirect('/ratings')
 			self.data['employee-peer-feedback']=int(request.form.get('peer-feedback'))
 			self.data['employee-project-completion-rate']=int(request.form.get(

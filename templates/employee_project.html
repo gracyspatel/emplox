@@ -21,7 +21,7 @@
         <p class="pt-1 bar fs-7" href="#"><b>Other's Feedback</span></b></p>
         <div class="form-group mt-3">
           <label for="peer-feedback">Peer Feedback</label>
-          <input type="range" class="form-range" min="0" max="10" id="peer-feedback"  name="peer-feedback" value={{data.get('employee-peer-feedback')}}>
+          <input type="range" class="form-range" min="0" max="10" id="peer-feedback"  name="peer-feedback" required value={{data.get('employee-peer-feedback')}}>
           <div class="d-flex w-100 justify-content-between">
             {% for i in range(0, 11) %}
               <p>{{i}}</p>
@@ -32,13 +32,13 @@
         <div class="d-flex gap-3">
             <p class="fs-9">Is the Employee Learning?  </p>
             <div class="form-check">
-              <input class="form-check-input" type="radio" value="yes" name="learning-growth" id="learning-growth-yes" {% if data.get('Learning_Growth') == "yes" %} checked {% endif %}>
+              <input class="form-check-input" type="radio" value="yes" name="learning-growth" id="learning-growth-yes" required {% if data.get('Learning_Growth') == "yes" %} checked {% endif %}>
               <label class="form-check-label" for="learning-growth-yes">
                 Yes
               </label>
             </div>
             <div class="form-check">
-              <input class="form-check-input" type="radio" value="no" name="learning-growth" id="learning-growth-no" {% if data.get('Learning_Growth') == "no" %} checked {% endif %}>
+              <input class="form-check-input" type="radio" value="no" name="learning-growth" id="learning-growth-no" required {% if data.get('Learning_Growth') == "no" %} checked {% endif %}>
               <label class="form-check-label" for="learning-growth-no">
                 No
               </label>
@@ -47,7 +47,7 @@
       </div>
       <div class="row g-3">
         <div class="col-md-3">
-          <button class="btn btn-primary w-100" value="VALUE1" name="action1">Previous</button>
+          <button class="btn btn-primary w-100" value="previous" name="action1">Previous</button>
         </div>
         <div class="col-md-3">
           <button type="submit" class="btn btn-primary w-100">Predict</button>

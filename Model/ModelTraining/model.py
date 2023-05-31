@@ -6,13 +6,12 @@ import pickle
 import pandas as pd
 import numpy as np
 from imblearn.over_sampling import SMOTE
-from sklearn.model_selection import train_test_split,GridSearchCV
+from sklearn.model_selection import train_test_split
 from sklearn.metrics import classification_report,confusion_matrix,accuracy_score
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.naive_bayes import GaussianNB, MultinomialNB
 
 # model training class
 class ModelTraining:
@@ -23,7 +22,7 @@ class ModelTraining:
         self.y_predicted = None
         self.model = None
         self.models_list = [RandomForestClassifier(),SVC(),DecisionTreeClassifier(),
-							KNeighborsClassifier(),GaussianNB(),MultinomialNB()]
+							KNeighborsClassifier()]
 
     # data splitting
     def data_splitting(self):
@@ -81,7 +80,7 @@ class ModelTraining:
         self.data_splitting()
 
         # for all the models
-        self.all_model()
+        # self.all_model()
 
         # model train
         self.model_train()

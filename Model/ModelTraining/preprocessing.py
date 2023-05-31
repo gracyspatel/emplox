@@ -42,7 +42,6 @@ class Preprocessing:
         file = open(filepath, 'rb')
         self.encoders = pickle.load(file)
         file.close()
-
         return self.encoders['department_skills']
 
     # input data cleaning
